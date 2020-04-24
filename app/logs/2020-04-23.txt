@@ -1,0 +1,1408 @@
+[2020-04-23 14:05:06] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\router.py', reloading
+[2020-04-23 14:05:06] [INFO]  * Restarting with stat
+[2020-04-23 14:05:07] [WARNING]  * Debugger is active!
+[2020-04-23 14:05:07] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:05:07] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:06:00] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:06:00] [INFO]  * Restarting with stat
+[2020-04-23 14:06:22] [INFO]  * Restarting with stat
+[2020-04-23 14:06:23] [WARNING]  * Debugger is active!
+[2020-04-23 14:06:23] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:06:23] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:06:25] [INFO] 127.0.0.1 - - [23/Apr/2020 14:06:25] "[33mGET / HTTP/1.1[0m" 404 -
+[2020-04-23 14:06:25] [INFO] 127.0.0.1 - - [23/Apr/2020 14:06:25] "[33mGET / HTTP/1.1[0m" 404 -
+[2020-04-23 14:06:40] [INFO] 127.0.0.1 - - [23/Apr/2020 14:06:40] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 14:08:07] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:08:07] [INFO]  * Restarting with stat
+[2020-04-23 14:17:56] [INFO]  * Restarting with stat
+[2020-04-23 14:17:58] [WARNING]  * Debugger is active!
+[2020-04-23 14:17:58] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:17:58] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:18:01] [INFO] 127.0.0.1 - - [23/Apr/2020 14:18:01] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 14:18:01] [INFO] 127.0.0.1 - - [23/Apr/2020 14:18:01] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 14:18:01] [INFO] 127.0.0.1 - - [23/Apr/2020 14:18:01] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:18:01] [INFO] 127.0.0.1 - - [23/Apr/2020 14:18:01] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:18:01] [INFO] 127.0.0.1 - - [23/Apr/2020 14:18:01] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 14:18:01] [INFO] 127.0.0.1 - - [23/Apr/2020 14:18:01] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 14:18:01] [INFO] 127.0.0.1 - - [23/Apr/2020 14:18:01] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 14:18:17] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:18:17] [INFO]  * Restarting with stat
+[2020-04-23 14:18:18] [WARNING]  * Debugger is active!
+[2020-04-23 14:18:18] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:18:18] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:18:20] [INFO] 127.0.0.1 - - [23/Apr/2020 14:18:20] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 14:19:37] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:19:37] [INFO]  * Restarting with stat
+[2020-04-23 14:19:38] [WARNING]  * Debugger is active!
+[2020-04-23 14:19:38] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:19:38] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:20:54] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:20:54] [INFO]  * Restarting with stat
+[2020-04-23 14:23:30] [INFO]  * Restarting with stat
+[2020-04-23 14:23:31] [WARNING]  * Debugger is active!
+[2020-04-23 14:23:31] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:23:31] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:23:35] [INFO] 127.0.0.1 - - [23/Apr/2020 14:23:35] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 14:23:38] [INFO] 127.0.0.1 - - [23/Apr/2020 14:23:38] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 14:23:40] [INFO] 127.0.0.1 - - [23/Apr/2020 14:23:40] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 14:26:43] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:26:43] [INFO]  * Restarting with stat
+[2020-04-23 14:26:44] [WARNING]  * Debugger is active!
+[2020-04-23 14:26:44] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:26:44] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:26:44] [INFO] 127.0.0.1 - - [23/Apr/2020 14:26:44] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 14:26:44] [INFO] 127.0.0.1 - - [23/Apr/2020 14:26:44] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 14:26:44] [INFO] 127.0.0.1 - - [23/Apr/2020 14:26:44] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:26:44] [INFO] 127.0.0.1 - - [23/Apr/2020 14:26:44] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:26:44] [INFO] 127.0.0.1 - - [23/Apr/2020 14:26:44] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 14:26:44] [INFO] 127.0.0.1 - - [23/Apr/2020 14:26:44] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 14:26:44] [INFO] 127.0.0.1 - - [23/Apr/2020 14:26:44] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 14:27:15] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:27:15] [INFO]  * Restarting with stat
+[2020-04-23 14:27:16] [WARNING]  * Debugger is active!
+[2020-04-23 14:27:16] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:27:16] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:27:18] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:27:18] [INFO]  * Restarting with stat
+[2020-04-23 14:27:19] [WARNING]  * Debugger is active!
+[2020-04-23 14:27:19] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:27:19] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:27:19] [INFO] 127.0.0.1 - - [23/Apr/2020 14:27:19] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 14:27:19] [INFO] 127.0.0.1 - - [23/Apr/2020 14:27:19] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 14:27:19] [INFO] 127.0.0.1 - - [23/Apr/2020 14:27:19] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:27:19] [INFO] 127.0.0.1 - - [23/Apr/2020 14:27:19] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:27:19] [INFO] 127.0.0.1 - - [23/Apr/2020 14:27:19] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 14:27:19] [INFO] 127.0.0.1 - - [23/Apr/2020 14:27:19] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 14:27:51] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:27:51] [INFO]  * Restarting with stat
+[2020-04-23 14:27:52] [WARNING]  * Debugger is active!
+[2020-04-23 14:27:53] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:27:53] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:30:59] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:30:59] [INFO]  * Restarting with stat
+[2020-04-23 14:31:00] [WARNING]  * Debugger is active!
+[2020-04-23 14:31:00] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:31:00] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:31:30] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:31:30] [INFO]  * Restarting with stat
+[2020-04-23 14:31:31] [WARNING]  * Debugger is active!
+[2020-04-23 14:31:31] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:31:32] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:31:50] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:31:50] [INFO]  * Restarting with stat
+[2020-04-23 14:31:51] [WARNING]  * Debugger is active!
+[2020-04-23 14:31:51] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:31:51] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:32:17] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:32:18] [INFO]  * Restarting with stat
+[2020-04-23 14:32:19] [WARNING]  * Debugger is active!
+[2020-04-23 14:32:19] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:32:19] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:34:04] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:34:04] [INFO]  * Restarting with stat
+[2020-04-23 14:34:05] [WARNING]  * Debugger is active!
+[2020-04-23 14:34:05] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:34:05] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:34:08] [INFO] 127.0.0.1 - - [23/Apr/2020 14:34:08] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 14:34:08] [INFO] 127.0.0.1 - - [23/Apr/2020 14:34:08] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 14:34:08] [INFO] 127.0.0.1 - - [23/Apr/2020 14:34:08] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:34:08] [INFO] 127.0.0.1 - - [23/Apr/2020 14:34:08] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:34:08] [INFO] 127.0.0.1 - - [23/Apr/2020 14:34:08] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 14:34:08] [INFO] 127.0.0.1 - - [23/Apr/2020 14:34:08] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 14:34:39] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:34:39] [INFO]  * Restarting with stat
+[2020-04-23 14:34:40] [WARNING]  * Debugger is active!
+[2020-04-23 14:34:40] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:34:40] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:34:41] [INFO] 127.0.0.1 - - [23/Apr/2020 14:34:41] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 14:34:41] [INFO] 127.0.0.1 - - [23/Apr/2020 14:34:41] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 14:34:41] [INFO] 127.0.0.1 - - [23/Apr/2020 14:34:41] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:34:41] [INFO] 127.0.0.1 - - [23/Apr/2020 14:34:41] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:34:41] [INFO] 127.0.0.1 - - [23/Apr/2020 14:34:41] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 14:34:41] [INFO] 127.0.0.1 - - [23/Apr/2020 14:34:41] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 14:35:06] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:35:06] [INFO]  * Restarting with stat
+[2020-04-23 14:35:07] [WARNING]  * Debugger is active!
+[2020-04-23 14:35:07] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:35:07] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:35:33] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:35:33] [INFO]  * Restarting with stat
+[2020-04-23 14:35:34] [WARNING]  * Debugger is active!
+[2020-04-23 14:35:34] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:35:34] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:35:38] [INFO] 127.0.0.1 - - [23/Apr/2020 14:35:38] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 14:35:38] [INFO] 127.0.0.1 - - [23/Apr/2020 14:35:38] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 14:35:38] [INFO] 127.0.0.1 - - [23/Apr/2020 14:35:38] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:35:38] [INFO] 127.0.0.1 - - [23/Apr/2020 14:35:38] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:35:38] [INFO] 127.0.0.1 - - [23/Apr/2020 14:35:38] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 14:35:38] [INFO] 127.0.0.1 - - [23/Apr/2020 14:35:38] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 14:35:46] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:35:46] [INFO]  * Restarting with stat
+[2020-04-23 14:35:47] [WARNING]  * Debugger is active!
+[2020-04-23 14:35:47] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:35:47] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:35:48] [INFO] 127.0.0.1 - - [23/Apr/2020 14:35:48] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 14:35:48] [INFO] 127.0.0.1 - - [23/Apr/2020 14:35:48] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 14:35:48] [INFO] 127.0.0.1 - - [23/Apr/2020 14:35:48] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:35:48] [INFO] 127.0.0.1 - - [23/Apr/2020 14:35:48] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:35:48] [INFO] 127.0.0.1 - - [23/Apr/2020 14:35:48] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 14:35:48] [INFO] 127.0.0.1 - - [23/Apr/2020 14:35:48] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 14:36:01] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:36:01] [INFO]  * Restarting with stat
+[2020-04-23 14:36:02] [WARNING]  * Debugger is active!
+[2020-04-23 14:36:02] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:36:02] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:36:03] [INFO] 127.0.0.1 - - [23/Apr/2020 14:36:03] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 14:36:03] [INFO] 127.0.0.1 - - [23/Apr/2020 14:36:03] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:36:03] [INFO] 127.0.0.1 - - [23/Apr/2020 14:36:03] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:36:03] [INFO] 127.0.0.1 - - [23/Apr/2020 14:36:03] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 14:36:03] [INFO] 127.0.0.1 - - [23/Apr/2020 14:36:03] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 14:36:03] [INFO] 127.0.0.1 - - [23/Apr/2020 14:36:03] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 14:36:19] [INFO] 127.0.0.1 - - [23/Apr/2020 14:36:19] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 14:36:42] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:36:42] [INFO]  * Restarting with stat
+[2020-04-23 14:36:43] [WARNING]  * Debugger is active!
+[2020-04-23 14:36:43] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:36:43] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:36:45] [INFO] 127.0.0.1 - - [23/Apr/2020 14:36:45] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 14:36:46] [INFO] 127.0.0.1 - - [23/Apr/2020 14:36:46] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 14:36:47] [INFO] 127.0.0.1 - - [23/Apr/2020 14:36:47] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 14:37:11] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:37:11] [INFO]  * Restarting with stat
+[2020-04-23 14:37:12] [WARNING]  * Debugger is active!
+[2020-04-23 14:37:12] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:37:12] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:37:50] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:37:50] [INFO]  * Restarting with stat
+[2020-04-23 14:37:51] [WARNING]  * Debugger is active!
+[2020-04-23 14:37:51] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:37:51] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:38:16] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:38:16] [INFO]  * Restarting with stat
+[2020-04-23 14:40:18] [INFO]  * Restarting with stat
+[2020-04-23 14:40:19] [WARNING]  * Debugger is active!
+[2020-04-23 14:40:19] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:40:19] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:40:21] [INFO] 127.0.0.1 - - [23/Apr/2020 14:40:21] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 14:40:21] [INFO] 127.0.0.1 - - [23/Apr/2020 14:40:21] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:40:21] [INFO] 127.0.0.1 - - [23/Apr/2020 14:40:21] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 14:40:21] [INFO] 127.0.0.1 - - [23/Apr/2020 14:40:21] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:40:21] [INFO] 127.0.0.1 - - [23/Apr/2020 14:40:21] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 14:40:21] [INFO] 127.0.0.1 - - [23/Apr/2020 14:40:21] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 14:40:21] [INFO] 127.0.0.1 - - [23/Apr/2020 14:40:21] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 14:40:51] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:40:51] [INFO]  * Restarting with stat
+[2020-04-23 14:40:52] [WARNING]  * Debugger is active!
+[2020-04-23 14:40:52] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:40:52] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:40:56] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:40:56] [INFO]  * Restarting with stat
+[2020-04-23 14:40:57] [WARNING]  * Debugger is active!
+[2020-04-23 14:40:57] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:40:57] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:41:00] [INFO] 127.0.0.1 - - [23/Apr/2020 14:41:00] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 14:41:00] [INFO] 127.0.0.1 - - [23/Apr/2020 14:41:00] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 14:41:00] [INFO] 127.0.0.1 - - [23/Apr/2020 14:41:00] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:41:00] [INFO] 127.0.0.1 - - [23/Apr/2020 14:41:00] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:41:00] [INFO] 127.0.0.1 - - [23/Apr/2020 14:41:00] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 14:41:00] [INFO] 127.0.0.1 - - [23/Apr/2020 14:41:00] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 14:41:06] [INFO] 127.0.0.1 - - [23/Apr/2020 14:41:06] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 14:41:06] [INFO] 127.0.0.1 - - [23/Apr/2020 14:41:06] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 14:41:06] [INFO] 127.0.0.1 - - [23/Apr/2020 14:41:06] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:41:06] [INFO] 127.0.0.1 - - [23/Apr/2020 14:41:06] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:41:06] [INFO] 127.0.0.1 - - [23/Apr/2020 14:41:06] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 14:41:06] [INFO] 127.0.0.1 - - [23/Apr/2020 14:41:06] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 14:43:32] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:43:32] [INFO]  * Restarting with stat
+[2020-04-23 14:43:33] [WARNING]  * Debugger is active!
+[2020-04-23 14:43:33] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:43:33] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:43:36] [INFO] 127.0.0.1 - - [23/Apr/2020 14:43:36] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 14:44:18] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:44:18] [INFO]  * Restarting with stat
+[2020-04-23 14:44:19] [WARNING]  * Debugger is active!
+[2020-04-23 14:44:19] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:44:19] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:44:20] [INFO] 127.0.0.1 - - [23/Apr/2020 14:44:20] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 14:44:20] [INFO] 127.0.0.1 - - [23/Apr/2020 14:44:20] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 14:44:20] [INFO] 127.0.0.1 - - [23/Apr/2020 14:44:20] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:44:20] [INFO] 127.0.0.1 - - [23/Apr/2020 14:44:20] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:44:20] [INFO] 127.0.0.1 - - [23/Apr/2020 14:44:20] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 14:44:20] [INFO] 127.0.0.1 - - [23/Apr/2020 14:44:20] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 14:44:20] [INFO] 127.0.0.1 - - [23/Apr/2020 14:44:20] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 14:44:28] [INFO] 127.0.0.1 - - [23/Apr/2020 14:44:28] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 14:44:28] [INFO] 127.0.0.1 - - [23/Apr/2020 14:44:28] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 14:44:28] [INFO] 127.0.0.1 - - [23/Apr/2020 14:44:28] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:44:28] [INFO] 127.0.0.1 - - [23/Apr/2020 14:44:28] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:44:28] [INFO] 127.0.0.1 - - [23/Apr/2020 14:44:28] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 14:44:28] [INFO] 127.0.0.1 - - [23/Apr/2020 14:44:28] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 14:44:41] [INFO] 127.0.0.1 - - [23/Apr/2020 14:44:41] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 14:45:34] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:45:34] [INFO]  * Restarting with stat
+[2020-04-23 14:45:36] [WARNING]  * Debugger is active!
+[2020-04-23 14:45:36] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:45:36] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:45:55] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\models.py', reloading
+[2020-04-23 14:45:55] [INFO]  * Restarting with stat
+[2020-04-23 14:45:56] [WARNING]  * Debugger is active!
+[2020-04-23 14:45:56] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:45:56] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:46:27] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:46:27] [INFO]  * Restarting with stat
+[2020-04-23 14:46:28] [WARNING]  * Debugger is active!
+[2020-04-23 14:46:28] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:46:28] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:46:56] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:46:56] [INFO]  * Restarting with stat
+[2020-04-23 14:46:57] [WARNING]  * Debugger is active!
+[2020-04-23 14:46:57] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:46:57] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:46:59] [INFO] 127.0.0.1 - - [23/Apr/2020 14:46:59] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 14:50:51] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:50:51] [INFO]  * Restarting with stat
+[2020-04-23 14:50:52] [WARNING]  * Debugger is active!
+[2020-04-23 14:50:52] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:50:52] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:50:57] [INFO] 127.0.0.1 - - [23/Apr/2020 14:50:57] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 14:51:26] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:51:26] [INFO]  * Restarting with stat
+[2020-04-23 14:51:27] [WARNING]  * Debugger is active!
+[2020-04-23 14:51:27] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:51:27] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:51:30] [INFO] 127.0.0.1 - - [23/Apr/2020 14:51:30] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 14:51:30] [INFO] 127.0.0.1 - - [23/Apr/2020 14:51:30] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 14:51:30] [INFO] 127.0.0.1 - - [23/Apr/2020 14:51:30] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:51:30] [INFO] 127.0.0.1 - - [23/Apr/2020 14:51:30] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 14:51:30] [INFO] 127.0.0.1 - - [23/Apr/2020 14:51:30] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 14:51:30] [INFO] 127.0.0.1 - - [23/Apr/2020 14:51:30] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 14:51:30] [INFO] 127.0.0.1 - - [23/Apr/2020 14:51:30] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 14:51:35] [INFO] 127.0.0.1 - - [23/Apr/2020 14:51:35] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 14:51:57] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:51:57] [INFO]  * Restarting with stat
+[2020-04-23 14:51:58] [WARNING]  * Debugger is active!
+[2020-04-23 14:51:58] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:51:58] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:52:27] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:52:27] [INFO]  * Restarting with stat
+[2020-04-23 14:52:28] [WARNING]  * Debugger is active!
+[2020-04-23 14:52:28] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:52:28] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:53:18] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:53:18] [INFO]  * Restarting with stat
+[2020-04-23 14:53:20] [WARNING]  * Debugger is active!
+[2020-04-23 14:53:20] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:53:20] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:53:43] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:53:43] [INFO]  * Restarting with stat
+[2020-04-23 14:53:44] [WARNING]  * Debugger is active!
+[2020-04-23 14:53:44] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:53:44] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:53:55] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:53:55] [INFO]  * Restarting with stat
+[2020-04-23 14:53:56] [WARNING]  * Debugger is active!
+[2020-04-23 14:53:56] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:53:56] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:54:23] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:54:23] [INFO]  * Restarting with stat
+[2020-04-23 14:54:24] [WARNING]  * Debugger is active!
+[2020-04-23 14:54:24] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:54:24] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:55:03] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:55:03] [INFO]  * Restarting with stat
+[2020-04-23 14:55:04] [WARNING]  * Debugger is active!
+[2020-04-23 14:55:04] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:55:04] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:55:28] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:55:28] [INFO]  * Restarting with stat
+[2020-04-23 14:55:29] [WARNING]  * Debugger is active!
+[2020-04-23 14:55:29] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:55:29] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:56:03] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:56:03] [INFO]  * Restarting with stat
+[2020-04-23 14:56:04] [WARNING]  * Debugger is active!
+[2020-04-23 14:56:04] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:56:04] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:56:21] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:56:21] [INFO]  * Restarting with stat
+[2020-04-23 14:56:22] [WARNING]  * Debugger is active!
+[2020-04-23 14:56:22] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:56:22] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:56:39] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:56:39] [INFO]  * Restarting with stat
+[2020-04-23 14:56:40] [WARNING]  * Debugger is active!
+[2020-04-23 14:56:40] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:56:40] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:58:05] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:58:05] [INFO]  * Restarting with stat
+[2020-04-23 14:58:07] [WARNING]  * Debugger is active!
+[2020-04-23 14:58:07] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 14:58:07] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 14:58:33] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 14:58:33] [INFO]  * Restarting with stat
+[2020-04-23 15:02:40] [INFO]  * Restarting with stat
+[2020-04-23 15:02:41] [WARNING]  * Debugger is active!
+[2020-04-23 15:02:41] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:02:41] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:02:47] [INFO] 127.0.0.1 - - [23/Apr/2020 15:02:47] "[37mOPTIONS /admin/getadminUserList?currentPage=1&pageSize=10 HTTP/1.1[0m" 200 -
+[2020-04-23 15:02:47] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getadminUserList
+[2020-04-23 15:02:47] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzYxMzA1MCwiZXhwIjoxNTg3Njk5NDUwfQ.eyJpZCI6MjMsInVzZXJOYW1lIjoic3MzIiwibmFtZSI6InNzMyIsInNleCI6MCwiZW1haWwiOiJzczMiLCJwaG9uZSI6InNzMyIsImNyZWF0ZVRpbWUiOiIyMDIwLTA0LTIzIDExOjI1OjI4In0.EsFl-lGYsJOMfTjrksH6SvPRfgww2eOJ5lyrxj_8BrBiV4Daj9VlgbW4Xa3Yn-nBlwP09fqIWcTay_6pEqqKjA
+[2020-04-23 15:02:47] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 23, 'userName': 'ss3', 'name': 'ss3', 'sex': 0, 'email': 'ss3', 'phone': 'ss3', 'createTime': '2020-04-23 11:25:28'}
+[2020-04-23 15:02:47] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-23 15:02:47] [DEBUG] «Î«Û≤Œ ˝------{'currentPage': '1', 'pageSize': '10'}
+[2020-04-23 15:02:47] [DEBUG] «Î«Û∫ƒ ±------0.00894618034362793 √Î
+[2020-04-23 15:02:47] [DEBUG] ∑µªÿµƒΩ·ππ------<Response 1119 bytes [200 OK]>
+[2020-04-23 15:02:47] [INFO] 127.0.0.1 - - [23/Apr/2020 15:02:47] "[37mGET /admin/getadminUserList?currentPage=1&pageSize=10 HTTP/1.1[0m" 200 -
+[2020-04-23 15:02:48] [INFO] 127.0.0.1 - - [23/Apr/2020 15:02:48] "[37mOPTIONS /admin/regAdminUser HTTP/1.1[0m" 200 -
+[2020-04-23 15:02:48] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/regAdminUser
+[2020-04-23 15:02:48] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzYxMzA1MCwiZXhwIjoxNTg3Njk5NDUwfQ.eyJpZCI6MjMsInVzZXJOYW1lIjoic3MzIiwibmFtZSI6InNzMyIsInNleCI6MCwiZW1haWwiOiJzczMiLCJwaG9uZSI6InNzMyIsImNyZWF0ZVRpbWUiOiIyMDIwLTA0LTIzIDExOjI1OjI4In0.EsFl-lGYsJOMfTjrksH6SvPRfgww2eOJ5lyrxj_8BrBiV4Daj9VlgbW4Xa3Yn-nBlwP09fqIWcTay_6pEqqKjA
+[2020-04-23 15:02:48] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 23, 'userName': 'ss3', 'name': 'ss3', 'sex': 0, 'email': 'ss3', 'phone': 'ss3', 'createTime': '2020-04-23 11:25:28'}
+[2020-04-23 15:02:48] [DEBUG] «Î«Û∑Ω Ω------POST
+[2020-04-23 15:02:48] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'userName562', 'passWord': 'password22', 'email': 'email562', 'phone': '44562', 'sex': 1, 'name': '1232'}
+[2020-04-23 15:02:48] [DEBUG] «Î«Û∫ƒ ±------0.004985809326171875 √Î
+[2020-04-23 15:02:48] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': 'ÃÌº””√ªß ß∞‹,∏√”√ªß“—¥Ê‘⁄', 'flag': False, 'data': {}}
+[2020-04-23 15:02:48] [INFO] 127.0.0.1 - - [23/Apr/2020 15:02:48] "[37mPOST /admin/regAdminUser HTTP/1.1[0m" 200 -
+[2020-04-23 15:02:49] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/regAdminUser
+[2020-04-23 15:02:49] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzYxMzA1MCwiZXhwIjoxNTg3Njk5NDUwfQ.eyJpZCI6MjMsInVzZXJOYW1lIjoic3MzIiwibmFtZSI6InNzMyIsInNleCI6MCwiZW1haWwiOiJzczMiLCJwaG9uZSI6InNzMyIsImNyZWF0ZVRpbWUiOiIyMDIwLTA0LTIzIDExOjI1OjI4In0.EsFl-lGYsJOMfTjrksH6SvPRfgww2eOJ5lyrxj_8BrBiV4Daj9VlgbW4Xa3Yn-nBlwP09fqIWcTay_6pEqqKjA
+[2020-04-23 15:02:49] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 23, 'userName': 'ss3', 'name': 'ss3', 'sex': 0, 'email': 'ss3', 'phone': 'ss3', 'createTime': '2020-04-23 11:25:28'}
+[2020-04-23 15:02:49] [DEBUG] «Î«Û∑Ω Ω------POST
+[2020-04-23 15:02:49] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'userName563', 'passWord': 'password23', 'email': 'email563', 'phone': '44563', 'sex': 1, 'name': '1232'}
+[2020-04-23 15:02:49] [DEBUG] «Î«Û∫ƒ ±------0.013933420181274414 √Î
+[2020-04-23 15:02:49] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': '◊¢≤·”√ªß≥…π¶,”√ªß√˚:userName563', 'flag': True, 'data': {'id': 25, 'userName': 'userName563', 'name': '1232', 'sex': 1, 'email': 'email563', 'phone': '44563', 'avatar': None, 'createTime': '2020-04-23 15:02:50'}}
+[2020-04-23 15:02:49] [INFO] 127.0.0.1 - - [23/Apr/2020 15:02:49] "[37mPOST /admin/regAdminUser HTTP/1.1[0m" 200 -
+[2020-04-23 15:02:49] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getadminUserList
+[2020-04-23 15:02:49] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzYxMzA1MCwiZXhwIjoxNTg3Njk5NDUwfQ.eyJpZCI6MjMsInVzZXJOYW1lIjoic3MzIiwibmFtZSI6InNzMyIsInNleCI6MCwiZW1haWwiOiJzczMiLCJwaG9uZSI6InNzMyIsImNyZWF0ZVRpbWUiOiIyMDIwLTA0LTIzIDExOjI1OjI4In0.EsFl-lGYsJOMfTjrksH6SvPRfgww2eOJ5lyrxj_8BrBiV4Daj9VlgbW4Xa3Yn-nBlwP09fqIWcTay_6pEqqKjA
+[2020-04-23 15:02:49] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 23, 'userName': 'ss3', 'name': 'ss3', 'sex': 0, 'email': 'ss3', 'phone': 'ss3', 'createTime': '2020-04-23 11:25:28'}
+[2020-04-23 15:02:49] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-23 15:02:49] [DEBUG] «Î«Û≤Œ ˝------{'currentPage': '1', 'pageSize': '10'}
+[2020-04-23 15:02:49] [DEBUG] «Î«Û∫ƒ ±------0.0019948482513427734 √Î
+[2020-04-23 15:02:49] [DEBUG] ∑µªÿµƒΩ·ππ------<Response 1362 bytes [200 OK]>
+[2020-04-23 15:02:49] [INFO] 127.0.0.1 - - [23/Apr/2020 15:02:49] "[37mGET /admin/getadminUserList?currentPage=1&pageSize=10 HTTP/1.1[0m" 200 -
+[2020-04-23 15:02:52] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/regAdminUser
+[2020-04-23 15:02:52] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzYxMzA1MCwiZXhwIjoxNTg3Njk5NDUwfQ.eyJpZCI6MjMsInVzZXJOYW1lIjoic3MzIiwibmFtZSI6InNzMyIsInNleCI6MCwiZW1haWwiOiJzczMiLCJwaG9uZSI6InNzMyIsImNyZWF0ZVRpbWUiOiIyMDIwLTA0LTIzIDExOjI1OjI4In0.EsFl-lGYsJOMfTjrksH6SvPRfgww2eOJ5lyrxj_8BrBiV4Daj9VlgbW4Xa3Yn-nBlwP09fqIWcTay_6pEqqKjA
+[2020-04-23 15:02:52] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 23, 'userName': 'ss3', 'name': 'ss3', 'sex': 0, 'email': 'ss3', 'phone': 'ss3', 'createTime': '2020-04-23 11:25:28'}
+[2020-04-23 15:02:52] [DEBUG] «Î«Û∑Ω Ω------POST
+[2020-04-23 15:02:52] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'userName564', 'passWord': 'password24', 'email': 'email564', 'phone': '44564', 'sex': 1, 'name': '1232'}
+[2020-04-23 15:02:52] [DEBUG] «Î«Û∫ƒ ±------0.01199197769165039 √Î
+[2020-04-23 15:02:52] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': '◊¢≤·”√ªß≥…π¶,”√ªß√˚:userName564', 'flag': True, 'data': {'id': 26, 'userName': 'userName564', 'name': '1232', 'sex': 1, 'email': 'email564', 'phone': '44564', 'avatar': None, 'createTime': '2020-04-23 15:02:52'}}
+[2020-04-23 15:02:52] [INFO] 127.0.0.1 - - [23/Apr/2020 15:02:52] "[37mPOST /admin/regAdminUser HTTP/1.1[0m" 200 -
+[2020-04-23 15:02:52] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getadminUserList
+[2020-04-23 15:02:52] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzYxMzA1MCwiZXhwIjoxNTg3Njk5NDUwfQ.eyJpZCI6MjMsInVzZXJOYW1lIjoic3MzIiwibmFtZSI6InNzMyIsInNleCI6MCwiZW1haWwiOiJzczMiLCJwaG9uZSI6InNzMyIsImNyZWF0ZVRpbWUiOiIyMDIwLTA0LTIzIDExOjI1OjI4In0.EsFl-lGYsJOMfTjrksH6SvPRfgww2eOJ5lyrxj_8BrBiV4Daj9VlgbW4Xa3Yn-nBlwP09fqIWcTay_6pEqqKjA
+[2020-04-23 15:02:52] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 23, 'userName': 'ss3', 'name': 'ss3', 'sex': 0, 'email': 'ss3', 'phone': 'ss3', 'createTime': '2020-04-23 11:25:28'}
+[2020-04-23 15:02:52] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-23 15:02:52] [DEBUG] «Î«Û≤Œ ˝------{'currentPage': '1', 'pageSize': '10'}
+[2020-04-23 15:02:52] [DEBUG] «Î«Û∫ƒ ±------0.001995086669921875 √Î
+[2020-04-23 15:02:52] [DEBUG] ∑µªÿµƒΩ·ππ------<Response 1605 bytes [200 OK]>
+[2020-04-23 15:02:52] [INFO] 127.0.0.1 - - [23/Apr/2020 15:02:52] "[37mGET /admin/getadminUserList?currentPage=1&pageSize=10 HTTP/1.1[0m" 200 -
+[2020-04-23 15:02:52] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/regAdminUser
+[2020-04-23 15:02:52] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzYxMzA1MCwiZXhwIjoxNTg3Njk5NDUwfQ.eyJpZCI6MjMsInVzZXJOYW1lIjoic3MzIiwibmFtZSI6InNzMyIsInNleCI6MCwiZW1haWwiOiJzczMiLCJwaG9uZSI6InNzMyIsImNyZWF0ZVRpbWUiOiIyMDIwLTA0LTIzIDExOjI1OjI4In0.EsFl-lGYsJOMfTjrksH6SvPRfgww2eOJ5lyrxj_8BrBiV4Daj9VlgbW4Xa3Yn-nBlwP09fqIWcTay_6pEqqKjA
+[2020-04-23 15:02:52] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 23, 'userName': 'ss3', 'name': 'ss3', 'sex': 0, 'email': 'ss3', 'phone': 'ss3', 'createTime': '2020-04-23 11:25:28'}
+[2020-04-23 15:02:52] [DEBUG] «Î«Û∑Ω Ω------POST
+[2020-04-23 15:02:52] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'userName565', 'passWord': 'password25', 'email': 'email565', 'phone': '44565', 'sex': 1, 'name': '1232'}
+[2020-04-23 15:02:52] [DEBUG] «Î«Û∫ƒ ±------0.01395726203918457 √Î
+[2020-04-23 15:02:52] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': '◊¢≤·”√ªß≥…π¶,”√ªß√˚:userName565', 'flag': True, 'data': {'id': 27, 'userName': 'userName565', 'name': '1232', 'sex': 1, 'email': 'email565', 'phone': '44565', 'avatar': None, 'createTime': '2020-04-23 15:02:53'}}
+[2020-04-23 15:02:52] [INFO] 127.0.0.1 - - [23/Apr/2020 15:02:52] "[37mPOST /admin/regAdminUser HTTP/1.1[0m" 200 -
+[2020-04-23 15:02:52] [INFO] 127.0.0.1 - - [23/Apr/2020 15:02:52] "[37mOPTIONS /admin/getadminUserList?currentPage=1&pageSize=10 HTTP/1.1[0m" 200 -
+[2020-04-23 15:02:52] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getadminUserList
+[2020-04-23 15:02:52] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzYxMzA1MCwiZXhwIjoxNTg3Njk5NDUwfQ.eyJpZCI6MjMsInVzZXJOYW1lIjoic3MzIiwibmFtZSI6InNzMyIsInNleCI6MCwiZW1haWwiOiJzczMiLCJwaG9uZSI6InNzMyIsImNyZWF0ZVRpbWUiOiIyMDIwLTA0LTIzIDExOjI1OjI4In0.EsFl-lGYsJOMfTjrksH6SvPRfgww2eOJ5lyrxj_8BrBiV4Daj9VlgbW4Xa3Yn-nBlwP09fqIWcTay_6pEqqKjA
+[2020-04-23 15:02:52] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 23, 'userName': 'ss3', 'name': 'ss3', 'sex': 0, 'email': 'ss3', 'phone': 'ss3', 'createTime': '2020-04-23 11:25:28'}
+[2020-04-23 15:02:52] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-23 15:02:52] [DEBUG] «Î«Û≤Œ ˝------{'currentPage': '1', 'pageSize': '10'}
+[2020-04-23 15:02:52] [DEBUG] «Î«Û∫ƒ ±------0.0029916763305664062 √Î
+[2020-04-23 15:02:52] [DEBUG] ∑µªÿµƒΩ·ππ------<Response 1848 bytes [200 OK]>
+[2020-04-23 15:02:52] [INFO] 127.0.0.1 - - [23/Apr/2020 15:02:52] "[37mGET /admin/getadminUserList?currentPage=1&pageSize=10 HTTP/1.1[0m" 200 -
+[2020-04-23 15:02:52] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/regAdminUser
+[2020-04-23 15:02:52] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzYxMzA1MCwiZXhwIjoxNTg3Njk5NDUwfQ.eyJpZCI6MjMsInVzZXJOYW1lIjoic3MzIiwibmFtZSI6InNzMyIsInNleCI6MCwiZW1haWwiOiJzczMiLCJwaG9uZSI6InNzMyIsImNyZWF0ZVRpbWUiOiIyMDIwLTA0LTIzIDExOjI1OjI4In0.EsFl-lGYsJOMfTjrksH6SvPRfgww2eOJ5lyrxj_8BrBiV4Daj9VlgbW4Xa3Yn-nBlwP09fqIWcTay_6pEqqKjA
+[2020-04-23 15:02:52] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 23, 'userName': 'ss3', 'name': 'ss3', 'sex': 0, 'email': 'ss3', 'phone': 'ss3', 'createTime': '2020-04-23 11:25:28'}
+[2020-04-23 15:02:52] [DEBUG] «Î«Û∑Ω Ω------POST
+[2020-04-23 15:02:52] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'userName566', 'passWord': 'password26', 'email': 'email566', 'phone': '44566', 'sex': 1, 'name': '1232'}
+[2020-04-23 15:02:52] [DEBUG] «Î«Û∫ƒ ±------0.011968135833740234 √Î
+[2020-04-23 15:02:52] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': '◊¢≤·”√ªß≥…π¶,”√ªß√˚:userName566', 'flag': True, 'data': {'id': 28, 'userName': 'userName566', 'name': '1232', 'sex': 1, 'email': 'email566', 'phone': '44566', 'avatar': None, 'createTime': '2020-04-23 15:02:53'}}
+[2020-04-23 15:02:52] [INFO] 127.0.0.1 - - [23/Apr/2020 15:02:52] "[37mPOST /admin/regAdminUser HTTP/1.1[0m" 200 -
+[2020-04-23 15:02:52] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getadminUserList
+[2020-04-23 15:02:52] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzYxMzA1MCwiZXhwIjoxNTg3Njk5NDUwfQ.eyJpZCI6MjMsInVzZXJOYW1lIjoic3MzIiwibmFtZSI6InNzMyIsInNleCI6MCwiZW1haWwiOiJzczMiLCJwaG9uZSI6InNzMyIsImNyZWF0ZVRpbWUiOiIyMDIwLTA0LTIzIDExOjI1OjI4In0.EsFl-lGYsJOMfTjrksH6SvPRfgww2eOJ5lyrxj_8BrBiV4Daj9VlgbW4Xa3Yn-nBlwP09fqIWcTay_6pEqqKjA
+[2020-04-23 15:02:52] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 23, 'userName': 'ss3', 'name': 'ss3', 'sex': 0, 'email': 'ss3', 'phone': 'ss3', 'createTime': '2020-04-23 11:25:28'}
+[2020-04-23 15:02:52] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-23 15:02:52] [DEBUG] «Î«Û≤Œ ˝------{'currentPage': '1', 'pageSize': '10'}
+[2020-04-23 15:02:52] [DEBUG] «Î«Û∫ƒ ±------0.001991748809814453 √Î
+[2020-04-23 15:02:52] [DEBUG] ∑µªÿµƒΩ·ππ------<Response 2091 bytes [200 OK]>
+[2020-04-23 15:02:52] [INFO] 127.0.0.1 - - [23/Apr/2020 15:02:52] "[37mGET /admin/getadminUserList?currentPage=1&pageSize=10 HTTP/1.1[0m" 200 -
+[2020-04-23 15:02:53] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/regAdminUser
+[2020-04-23 15:02:53] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzYxMzA1MCwiZXhwIjoxNTg3Njk5NDUwfQ.eyJpZCI6MjMsInVzZXJOYW1lIjoic3MzIiwibmFtZSI6InNzMyIsInNleCI6MCwiZW1haWwiOiJzczMiLCJwaG9uZSI6InNzMyIsImNyZWF0ZVRpbWUiOiIyMDIwLTA0LTIzIDExOjI1OjI4In0.EsFl-lGYsJOMfTjrksH6SvPRfgww2eOJ5lyrxj_8BrBiV4Daj9VlgbW4Xa3Yn-nBlwP09fqIWcTay_6pEqqKjA
+[2020-04-23 15:02:53] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 23, 'userName': 'ss3', 'name': 'ss3', 'sex': 0, 'email': 'ss3', 'phone': 'ss3', 'createTime': '2020-04-23 11:25:28'}
+[2020-04-23 15:02:53] [DEBUG] «Î«Û∑Ω Ω------POST
+[2020-04-23 15:02:53] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'userName567', 'passWord': 'password27', 'email': 'email567', 'phone': '44567', 'sex': 1, 'name': '1232'}
+[2020-04-23 15:02:53] [DEBUG] «Î«Û∫ƒ ±------0.012932300567626953 √Î
+[2020-04-23 15:02:53] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': '◊¢≤·”√ªß≥…π¶,”√ªß√˚:userName567', 'flag': True, 'data': {'id': 29, 'userName': 'userName567', 'name': '1232', 'sex': 1, 'email': 'email567', 'phone': '44567', 'avatar': None, 'createTime': '2020-04-23 15:02:53'}}
+[2020-04-23 15:02:53] [INFO] 127.0.0.1 - - [23/Apr/2020 15:02:53] "[37mPOST /admin/regAdminUser HTTP/1.1[0m" 200 -
+[2020-04-23 15:02:53] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getadminUserList
+[2020-04-23 15:02:53] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzYxMzA1MCwiZXhwIjoxNTg3Njk5NDUwfQ.eyJpZCI6MjMsInVzZXJOYW1lIjoic3MzIiwibmFtZSI6InNzMyIsInNleCI6MCwiZW1haWwiOiJzczMiLCJwaG9uZSI6InNzMyIsImNyZWF0ZVRpbWUiOiIyMDIwLTA0LTIzIDExOjI1OjI4In0.EsFl-lGYsJOMfTjrksH6SvPRfgww2eOJ5lyrxj_8BrBiV4Daj9VlgbW4Xa3Yn-nBlwP09fqIWcTay_6pEqqKjA
+[2020-04-23 15:02:53] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 23, 'userName': 'ss3', 'name': 'ss3', 'sex': 0, 'email': 'ss3', 'phone': 'ss3', 'createTime': '2020-04-23 11:25:28'}
+[2020-04-23 15:02:53] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-23 15:02:53] [DEBUG] «Î«Û≤Œ ˝------{'currentPage': '1', 'pageSize': '10'}
+[2020-04-23 15:02:53] [DEBUG] «Î«Û∫ƒ ±------0.0029916763305664062 √Î
+[2020-04-23 15:02:53] [DEBUG] ∑µªÿµƒΩ·ππ------<Response 2334 bytes [200 OK]>
+[2020-04-23 15:02:53] [INFO] 127.0.0.1 - - [23/Apr/2020 15:02:53] "[37mGET /admin/getadminUserList?currentPage=1&pageSize=10 HTTP/1.1[0m" 200 -
+[2020-04-23 15:02:53] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/regAdminUser
+[2020-04-23 15:02:53] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzYxMzA1MCwiZXhwIjoxNTg3Njk5NDUwfQ.eyJpZCI6MjMsInVzZXJOYW1lIjoic3MzIiwibmFtZSI6InNzMyIsInNleCI6MCwiZW1haWwiOiJzczMiLCJwaG9uZSI6InNzMyIsImNyZWF0ZVRpbWUiOiIyMDIwLTA0LTIzIDExOjI1OjI4In0.EsFl-lGYsJOMfTjrksH6SvPRfgww2eOJ5lyrxj_8BrBiV4Daj9VlgbW4Xa3Yn-nBlwP09fqIWcTay_6pEqqKjA
+[2020-04-23 15:02:53] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 23, 'userName': 'ss3', 'name': 'ss3', 'sex': 0, 'email': 'ss3', 'phone': 'ss3', 'createTime': '2020-04-23 11:25:28'}
+[2020-04-23 15:02:53] [DEBUG] «Î«Û∑Ω Ω------POST
+[2020-04-23 15:02:53] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'userName568', 'passWord': 'password28', 'email': 'email568', 'phone': '44568', 'sex': 1, 'name': '1232'}
+[2020-04-23 15:02:53] [DEBUG] «Î«Û∫ƒ ±------0.011943578720092773 √Î
+[2020-04-23 15:02:53] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': '◊¢≤·”√ªß≥…π¶,”√ªß√˚:userName568', 'flag': True, 'data': {'id': 30, 'userName': 'userName568', 'name': '1232', 'sex': 1, 'email': 'email568', 'phone': '44568', 'avatar': None, 'createTime': '2020-04-23 15:02:53'}}
+[2020-04-23 15:02:53] [INFO] 127.0.0.1 - - [23/Apr/2020 15:02:53] "[37mPOST /admin/regAdminUser HTTP/1.1[0m" 200 -
+[2020-04-23 15:02:53] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getadminUserList
+[2020-04-23 15:02:53] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzYxMzA1MCwiZXhwIjoxNTg3Njk5NDUwfQ.eyJpZCI6MjMsInVzZXJOYW1lIjoic3MzIiwibmFtZSI6InNzMyIsInNleCI6MCwiZW1haWwiOiJzczMiLCJwaG9uZSI6InNzMyIsImNyZWF0ZVRpbWUiOiIyMDIwLTA0LTIzIDExOjI1OjI4In0.EsFl-lGYsJOMfTjrksH6SvPRfgww2eOJ5lyrxj_8BrBiV4Daj9VlgbW4Xa3Yn-nBlwP09fqIWcTay_6pEqqKjA
+[2020-04-23 15:02:53] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 23, 'userName': 'ss3', 'name': 'ss3', 'sex': 0, 'email': 'ss3', 'phone': 'ss3', 'createTime': '2020-04-23 11:25:28'}
+[2020-04-23 15:02:53] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-23 15:02:53] [DEBUG] «Î«Û≤Œ ˝------{'currentPage': '1', 'pageSize': '10'}
+[2020-04-23 15:02:53] [DEBUG] «Î«Û∫ƒ ±------0.004961490631103516 √Î
+[2020-04-23 15:02:53] [DEBUG] ∑µªÿµƒΩ·ππ------<Response 2578 bytes [200 OK]>
+[2020-04-23 15:02:53] [INFO] 127.0.0.1 - - [23/Apr/2020 15:02:53] "[37mGET /admin/getadminUserList?currentPage=1&pageSize=10 HTTP/1.1[0m" 200 -
+[2020-04-23 15:02:53] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/regAdminUser
+[2020-04-23 15:02:53] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzYxMzA1MCwiZXhwIjoxNTg3Njk5NDUwfQ.eyJpZCI6MjMsInVzZXJOYW1lIjoic3MzIiwibmFtZSI6InNzMyIsInNleCI6MCwiZW1haWwiOiJzczMiLCJwaG9uZSI6InNzMyIsImNyZWF0ZVRpbWUiOiIyMDIwLTA0LTIzIDExOjI1OjI4In0.EsFl-lGYsJOMfTjrksH6SvPRfgww2eOJ5lyrxj_8BrBiV4Daj9VlgbW4Xa3Yn-nBlwP09fqIWcTay_6pEqqKjA
+[2020-04-23 15:02:53] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 23, 'userName': 'ss3', 'name': 'ss3', 'sex': 0, 'email': 'ss3', 'phone': 'ss3', 'createTime': '2020-04-23 11:25:28'}
+[2020-04-23 15:02:53] [DEBUG] «Î«Û∑Ω Ω------POST
+[2020-04-23 15:02:53] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'userName569', 'passWord': 'password29', 'email': 'email569', 'phone': '44569', 'sex': 1, 'name': '1232'}
+[2020-04-23 15:02:53] [DEBUG] «Î«Û∫ƒ ±------0.012965202331542969 √Î
+[2020-04-23 15:02:53] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': '◊¢≤·”√ªß≥…π¶,”√ªß√˚:userName569', 'flag': True, 'data': {'id': 31, 'userName': 'userName569', 'name': '1232', 'sex': 1, 'email': 'email569', 'phone': '44569', 'avatar': None, 'createTime': '2020-04-23 15:02:53'}}
+[2020-04-23 15:02:53] [INFO] 127.0.0.1 - - [23/Apr/2020 15:02:53] "[37mPOST /admin/regAdminUser HTTP/1.1[0m" 200 -
+[2020-04-23 15:02:53] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getadminUserList
+[2020-04-23 15:02:53] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzYxMzA1MCwiZXhwIjoxNTg3Njk5NDUwfQ.eyJpZCI6MjMsInVzZXJOYW1lIjoic3MzIiwibmFtZSI6InNzMyIsInNleCI6MCwiZW1haWwiOiJzczMiLCJwaG9uZSI6InNzMyIsImNyZWF0ZVRpbWUiOiIyMDIwLTA0LTIzIDExOjI1OjI4In0.EsFl-lGYsJOMfTjrksH6SvPRfgww2eOJ5lyrxj_8BrBiV4Daj9VlgbW4Xa3Yn-nBlwP09fqIWcTay_6pEqqKjA
+[2020-04-23 15:02:53] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 23, 'userName': 'ss3', 'name': 'ss3', 'sex': 0, 'email': 'ss3', 'phone': 'ss3', 'createTime': '2020-04-23 11:25:28'}
+[2020-04-23 15:02:53] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-23 15:02:53] [DEBUG] «Î«Û≤Œ ˝------{'currentPage': '1', 'pageSize': '10'}
+[2020-04-23 15:02:53] [DEBUG] «Î«Û∫ƒ ±------0.006011009216308594 √Î
+[2020-04-23 15:02:53] [DEBUG] ∑µªÿµƒΩ·ππ------<Response 2594 bytes [200 OK]>
+[2020-04-23 15:02:53] [INFO] 127.0.0.1 - - [23/Apr/2020 15:02:53] "[37mGET /admin/getadminUserList?currentPage=1&pageSize=10 HTTP/1.1[0m" 200 -
+[2020-04-23 15:02:53] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/regAdminUser
+[2020-04-23 15:02:53] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzYxMzA1MCwiZXhwIjoxNTg3Njk5NDUwfQ.eyJpZCI6MjMsInVzZXJOYW1lIjoic3MzIiwibmFtZSI6InNzMyIsInNleCI6MCwiZW1haWwiOiJzczMiLCJwaG9uZSI6InNzMyIsImNyZWF0ZVRpbWUiOiIyMDIwLTA0LTIzIDExOjI1OjI4In0.EsFl-lGYsJOMfTjrksH6SvPRfgww2eOJ5lyrxj_8BrBiV4Daj9VlgbW4Xa3Yn-nBlwP09fqIWcTay_6pEqqKjA
+[2020-04-23 15:02:53] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 23, 'userName': 'ss3', 'name': 'ss3', 'sex': 0, 'email': 'ss3', 'phone': 'ss3', 'createTime': '2020-04-23 11:25:28'}
+[2020-04-23 15:02:53] [DEBUG] «Î«Û∑Ω Ω------POST
+[2020-04-23 15:02:53] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'userName5610', 'passWord': 'password210', 'email': 'email5610', 'phone': '445610', 'sex': 1, 'name': '1232'}
+[2020-04-23 15:02:53] [DEBUG] «Î«Û∫ƒ ±------0.011968135833740234 √Î
+[2020-04-23 15:02:53] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': '◊¢≤·”√ªß≥…π¶,”√ªß√˚:userName5610', 'flag': True, 'data': {'id': 32, 'userName': 'userName5610', 'name': '1232', 'sex': 1, 'email': 'email5610', 'phone': '445610', 'avatar': None, 'createTime': '2020-04-23 15:02:54'}}
+[2020-04-23 15:02:53] [INFO] 127.0.0.1 - - [23/Apr/2020 15:02:53] "[37mPOST /admin/regAdminUser HTTP/1.1[0m" 200 -
+[2020-04-23 15:02:53] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getadminUserList
+[2020-04-23 15:02:53] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzYxMzA1MCwiZXhwIjoxNTg3Njk5NDUwfQ.eyJpZCI6MjMsInVzZXJOYW1lIjoic3MzIiwibmFtZSI6InNzMyIsInNleCI6MCwiZW1haWwiOiJzczMiLCJwaG9uZSI6InNzMyIsImNyZWF0ZVRpbWUiOiIyMDIwLTA0LTIzIDExOjI1OjI4In0.EsFl-lGYsJOMfTjrksH6SvPRfgww2eOJ5lyrxj_8BrBiV4Daj9VlgbW4Xa3Yn-nBlwP09fqIWcTay_6pEqqKjA
+[2020-04-23 15:02:53] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 23, 'userName': 'ss3', 'name': 'ss3', 'sex': 0, 'email': 'ss3', 'phone': 'ss3', 'createTime': '2020-04-23 11:25:28'}
+[2020-04-23 15:02:53] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-23 15:02:53] [DEBUG] «Î«Û≤Œ ˝------{'currentPage': '1', 'pageSize': '10'}
+[2020-04-23 15:02:53] [DEBUG] «Î«Û∫ƒ ±------0.004987001419067383 √Î
+[2020-04-23 15:02:53] [DEBUG] ∑µªÿµƒΩ·ππ------<Response 2613 bytes [200 OK]>
+[2020-04-23 15:02:53] [INFO] 127.0.0.1 - - [23/Apr/2020 15:02:53] "[37mGET /admin/getadminUserList?currentPage=1&pageSize=10 HTTP/1.1[0m" 200 -
+[2020-04-23 15:03:02] [INFO] 127.0.0.1 - - [23/Apr/2020 15:03:02] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:03:45] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:03:45] [INFO]  * Restarting with stat
+[2020-04-23 15:03:46] [WARNING]  * Debugger is active!
+[2020-04-23 15:03:46] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:03:46] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:03:49] [INFO] 127.0.0.1 - - [23/Apr/2020 15:03:49] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:06:19] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:06:19] [INFO]  * Restarting with stat
+[2020-04-23 15:06:20] [WARNING]  * Debugger is active!
+[2020-04-23 15:06:20] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:06:20] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:07:09] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:07:09] [INFO]  * Restarting with stat
+[2020-04-23 15:07:10] [WARNING]  * Debugger is active!
+[2020-04-23 15:07:10] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:07:10] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:07:17] [INFO] 127.0.0.1 - - [23/Apr/2020 15:07:17] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 15:07:17] [INFO] 127.0.0.1 - - [23/Apr/2020 15:07:17] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 15:07:17] [INFO] 127.0.0.1 - - [23/Apr/2020 15:07:17] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:07:17] [INFO] 127.0.0.1 - - [23/Apr/2020 15:07:17] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:07:17] [INFO] 127.0.0.1 - - [23/Apr/2020 15:07:17] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 15:07:17] [INFO] 127.0.0.1 - - [23/Apr/2020 15:07:17] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 15:07:17] [INFO] 127.0.0.1 - - [23/Apr/2020 15:07:17] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 15:07:26] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:07:26] [INFO]  * Restarting with stat
+[2020-04-23 15:07:27] [WARNING]  * Debugger is active!
+[2020-04-23 15:07:27] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:07:27] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:07:30] [INFO] 127.0.0.1 - - [23/Apr/2020 15:07:30] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:09:42] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:09:42] [INFO]  * Restarting with stat
+[2020-04-23 15:09:43] [WARNING]  * Debugger is active!
+[2020-04-23 15:09:43] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:09:43] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:09:55] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:09:55] [INFO]  * Restarting with stat
+[2020-04-23 15:09:56] [WARNING]  * Debugger is active!
+[2020-04-23 15:09:56] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:09:56] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:10:01] [INFO] 127.0.0.1 - - [23/Apr/2020 15:10:01] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:10:21] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:10:21] [INFO]  * Restarting with stat
+[2020-04-23 15:10:22] [WARNING]  * Debugger is active!
+[2020-04-23 15:10:22] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:10:22] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:10:28] [INFO] 127.0.0.1 - - [23/Apr/2020 15:10:28] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:10:48] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:10:48] [INFO]  * Restarting with stat
+[2020-04-23 15:10:49] [WARNING]  * Debugger is active!
+[2020-04-23 15:10:49] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:10:49] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:10:54] [INFO] 127.0.0.1 - - [23/Apr/2020 15:10:54] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:11:18] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:11:18] [INFO]  * Restarting with stat
+[2020-04-23 15:11:19] [WARNING]  * Debugger is active!
+[2020-04-23 15:11:19] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:11:19] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:11:27] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:11:27] [INFO]  * Restarting with stat
+[2020-04-23 15:11:28] [WARNING]  * Debugger is active!
+[2020-04-23 15:11:28] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:11:28] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:11:38] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:11:39] [INFO]  * Restarting with stat
+[2020-04-23 15:11:40] [WARNING]  * Debugger is active!
+[2020-04-23 15:11:40] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:11:40] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:11:55] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:11:55] [INFO]  * Restarting with stat
+[2020-04-23 15:11:56] [WARNING]  * Debugger is active!
+[2020-04-23 15:11:56] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:11:56] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:12:01] [INFO] 127.0.0.1 - - [23/Apr/2020 15:12:01] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:12:23] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:12:23] [INFO]  * Restarting with stat
+[2020-04-23 15:12:24] [WARNING]  * Debugger is active!
+[2020-04-23 15:12:24] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:12:24] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:12:28] [INFO] 127.0.0.1 - - [23/Apr/2020 15:12:28] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:14:15] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:14:15] [INFO]  * Restarting with stat
+[2020-04-23 15:14:16] [WARNING]  * Debugger is active!
+[2020-04-23 15:14:16] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:14:16] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:14:22] [INFO] 127.0.0.1 - - [23/Apr/2020 15:14:22] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:14:42] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:14:42] [INFO]  * Restarting with stat
+[2020-04-23 15:14:43] [WARNING]  * Debugger is active!
+[2020-04-23 15:14:43] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:14:43] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:14:48] [INFO] 127.0.0.1 - - [23/Apr/2020 15:14:48] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:16:17] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:16:17] [INFO]  * Restarting with stat
+[2020-04-23 15:16:18] [WARNING]  * Debugger is active!
+[2020-04-23 15:16:18] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:16:18] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:16:24] [INFO] 127.0.0.1 - - [23/Apr/2020 15:16:24] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:16:37] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:16:37] [INFO]  * Restarting with stat
+[2020-04-23 15:16:38] [WARNING]  * Debugger is active!
+[2020-04-23 15:16:38] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:16:38] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:16:58] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:16:58] [INFO]  * Restarting with stat
+[2020-04-23 15:16:59] [WARNING]  * Debugger is active!
+[2020-04-23 15:16:59] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:16:59] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:17:05] [INFO] 127.0.0.1 - - [23/Apr/2020 15:17:05] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:20:08] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:20:08] [INFO]  * Restarting with stat
+[2020-04-23 15:20:09] [WARNING]  * Debugger is active!
+[2020-04-23 15:20:09] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:20:09] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:20:27] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:20:27] [INFO]  * Restarting with stat
+[2020-04-23 15:20:28] [WARNING]  * Debugger is active!
+[2020-04-23 15:20:28] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:20:28] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:20:34] [INFO] 127.0.0.1 - - [23/Apr/2020 15:20:34] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:21:01] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:21:01] [INFO]  * Restarting with stat
+[2020-04-23 15:21:02] [WARNING]  * Debugger is active!
+[2020-04-23 15:21:03] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:21:03] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:22:58] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:22:58] [INFO]  * Restarting with stat
+[2020-04-23 15:22:59] [WARNING]  * Debugger is active!
+[2020-04-23 15:22:59] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:22:59] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:23:26] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:23:26] [INFO]  * Restarting with stat
+[2020-04-23 15:23:27] [WARNING]  * Debugger is active!
+[2020-04-23 15:23:27] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:23:27] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:23:33] [INFO] 127.0.0.1 - - [23/Apr/2020 15:23:33] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:28:48] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:28:48] [INFO]  * Restarting with stat
+[2020-04-23 15:28:49] [WARNING]  * Debugger is active!
+[2020-04-23 15:28:49] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:28:49] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:28:54] [INFO] 127.0.0.1 - - [23/Apr/2020 15:28:54] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:30:53] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:30:53] [INFO]  * Restarting with stat
+[2020-04-23 15:30:54] [WARNING]  * Debugger is active!
+[2020-04-23 15:30:54] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:30:54] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:31:05] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:31:05] [INFO]  * Restarting with stat
+[2020-04-23 15:31:06] [WARNING]  * Debugger is active!
+[2020-04-23 15:31:06] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:31:06] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:31:12] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:31:12] [INFO]  * Restarting with stat
+[2020-04-23 15:31:13] [WARNING]  * Debugger is active!
+[2020-04-23 15:31:13] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:31:13] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:31:19] [INFO] 127.0.0.1 - - [23/Apr/2020 15:31:19] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:35:20] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:35:21] [INFO]  * Restarting with stat
+[2020-04-23 15:35:22] [WARNING]  * Debugger is active!
+[2020-04-23 15:35:22] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:35:22] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:35:26] [INFO] 127.0.0.1 - - [23/Apr/2020 15:35:26] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:36:40] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:36:40] [INFO]  * Restarting with stat
+[2020-04-23 15:36:42] [WARNING]  * Debugger is active!
+[2020-04-23 15:36:42] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:36:42] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:36:46] [INFO] 127.0.0.1 - - [23/Apr/2020 15:36:46] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 15:36:46] [INFO] 127.0.0.1 - - [23/Apr/2020 15:36:46] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 15:36:46] [INFO] 127.0.0.1 - - [23/Apr/2020 15:36:46] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:36:46] [INFO] 127.0.0.1 - - [23/Apr/2020 15:36:46] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:36:46] [INFO] 127.0.0.1 - - [23/Apr/2020 15:36:46] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 15:36:46] [INFO] 127.0.0.1 - - [23/Apr/2020 15:36:46] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 15:36:46] [INFO] 127.0.0.1 - - [23/Apr/2020 15:36:46] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 15:36:55] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:36:55] [INFO]  * Restarting with stat
+[2020-04-23 15:36:56] [WARNING]  * Debugger is active!
+[2020-04-23 15:36:56] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:36:56] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:36:59] [INFO] 127.0.0.1 - - [23/Apr/2020 15:36:59] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 15:36:59] [INFO] 127.0.0.1 - - [23/Apr/2020 15:36:59] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:36:59] [INFO] 127.0.0.1 - - [23/Apr/2020 15:36:59] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 15:36:59] [INFO] 127.0.0.1 - - [23/Apr/2020 15:36:59] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:36:59] [INFO] 127.0.0.1 - - [23/Apr/2020 15:36:59] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 15:36:59] [INFO] 127.0.0.1 - - [23/Apr/2020 15:36:59] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 15:37:32] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:37:32] [INFO]  * Restarting with stat
+[2020-04-23 15:37:33] [WARNING]  * Debugger is active!
+[2020-04-23 15:37:33] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:37:33] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:37:36] [INFO] 127.0.0.1 - - [23/Apr/2020 15:37:36] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:40:45] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:40:45] [INFO]  * Restarting with stat
+[2020-04-23 15:40:46] [WARNING]  * Debugger is active!
+[2020-04-23 15:40:46] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:40:46] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:40:56] [INFO] 127.0.0.1 - - [23/Apr/2020 15:40:56] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 15:40:56] [INFO] 127.0.0.1 - - [23/Apr/2020 15:40:56] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 15:40:56] [INFO] 127.0.0.1 - - [23/Apr/2020 15:40:56] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:40:56] [INFO] 127.0.0.1 - - [23/Apr/2020 15:40:56] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:40:56] [INFO] 127.0.0.1 - - [23/Apr/2020 15:40:56] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 15:40:56] [INFO] 127.0.0.1 - - [23/Apr/2020 15:40:56] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 15:40:56] [INFO] 127.0.0.1 - - [23/Apr/2020 15:40:56] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 15:41:33] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:41:33] [INFO]  * Restarting with stat
+[2020-04-23 15:41:34] [WARNING]  * Debugger is active!
+[2020-04-23 15:41:34] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:41:34] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:41:36] [INFO] 127.0.0.1 - - [23/Apr/2020 15:41:36] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:41:49] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:41:49] [INFO]  * Restarting with stat
+[2020-04-23 15:41:50] [WARNING]  * Debugger is active!
+[2020-04-23 15:41:50] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:41:50] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:41:54] [INFO] 127.0.0.1 - - [23/Apr/2020 15:41:54] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:43:46] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:43:47] [INFO]  * Restarting with stat
+[2020-04-23 15:43:48] [WARNING]  * Debugger is active!
+[2020-04-23 15:43:48] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:43:48] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:43:52] [INFO] 127.0.0.1 - - [23/Apr/2020 15:43:52] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:45:19] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:45:19] [INFO]  * Restarting with stat
+[2020-04-23 15:45:20] [WARNING]  * Debugger is active!
+[2020-04-23 15:45:20] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:45:20] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:45:22] [INFO] 127.0.0.1 - - [23/Apr/2020 15:45:22] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 15:45:22] [INFO] 127.0.0.1 - - [23/Apr/2020 15:45:22] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 15:45:22] [INFO] 127.0.0.1 - - [23/Apr/2020 15:45:22] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:45:22] [INFO] 127.0.0.1 - - [23/Apr/2020 15:45:22] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:45:22] [INFO] 127.0.0.1 - - [23/Apr/2020 15:45:22] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 15:45:22] [INFO] 127.0.0.1 - - [23/Apr/2020 15:45:22] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 15:45:22] [INFO] 127.0.0.1 - - [23/Apr/2020 15:45:22] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 15:45:51] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:45:51] [INFO]  * Restarting with stat
+[2020-04-23 15:45:52] [WARNING]  * Debugger is active!
+[2020-04-23 15:45:52] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:45:52] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:45:54] [INFO] 127.0.0.1 - - [23/Apr/2020 15:45:54] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 15:45:54] [INFO] 127.0.0.1 - - [23/Apr/2020 15:45:54] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 15:45:54] [INFO] 127.0.0.1 - - [23/Apr/2020 15:45:54] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:45:54] [INFO] 127.0.0.1 - - [23/Apr/2020 15:45:54] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:45:54] [INFO] 127.0.0.1 - - [23/Apr/2020 15:45:54] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 15:45:54] [INFO] 127.0.0.1 - - [23/Apr/2020 15:45:54] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 15:46:00] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:46:00] [INFO]  * Restarting with stat
+[2020-04-23 15:46:01] [WARNING]  * Debugger is active!
+[2020-04-23 15:46:01] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:46:01] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:46:04] [INFO] 127.0.0.1 - - [23/Apr/2020 15:46:04] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 15:46:04] [INFO] 127.0.0.1 - - [23/Apr/2020 15:46:04] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 15:46:04] [INFO] 127.0.0.1 - - [23/Apr/2020 15:46:04] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:46:04] [INFO] 127.0.0.1 - - [23/Apr/2020 15:46:04] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:46:04] [INFO] 127.0.0.1 - - [23/Apr/2020 15:46:04] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 15:46:04] [INFO] 127.0.0.1 - - [23/Apr/2020 15:46:04] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 15:47:21] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:47:21] [INFO]  * Restarting with stat
+[2020-04-23 15:47:22] [WARNING]  * Debugger is active!
+[2020-04-23 15:47:22] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:47:22] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:47:25] [INFO] 127.0.0.1 - - [23/Apr/2020 15:47:25] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:48:57] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:48:57] [INFO]  * Restarting with stat
+[2020-04-23 15:48:58] [WARNING]  * Debugger is active!
+[2020-04-23 15:48:58] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:48:58] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:48:59] [INFO] 127.0.0.1 - - [23/Apr/2020 15:48:59] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 15:48:59] [INFO] 127.0.0.1 - - [23/Apr/2020 15:48:59] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 15:48:59] [INFO] 127.0.0.1 - - [23/Apr/2020 15:48:59] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:48:59] [INFO] 127.0.0.1 - - [23/Apr/2020 15:48:59] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:48:59] [INFO] 127.0.0.1 - - [23/Apr/2020 15:48:59] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 15:48:59] [INFO] 127.0.0.1 - - [23/Apr/2020 15:48:59] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 15:48:59] [INFO] 127.0.0.1 - - [23/Apr/2020 15:48:59] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 15:49:09] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:49:09] [INFO]  * Restarting with stat
+[2020-04-23 15:49:10] [WARNING]  * Debugger is active!
+[2020-04-23 15:49:10] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:49:10] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:49:12] [INFO] 127.0.0.1 - - [23/Apr/2020 15:49:12] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 15:49:12] [INFO] 127.0.0.1 - - [23/Apr/2020 15:49:12] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 15:49:12] [INFO] 127.0.0.1 - - [23/Apr/2020 15:49:12] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:49:12] [INFO] 127.0.0.1 - - [23/Apr/2020 15:49:12] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:49:12] [INFO] 127.0.0.1 - - [23/Apr/2020 15:49:12] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 15:49:13] [INFO] 127.0.0.1 - - [23/Apr/2020 15:49:13] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 15:49:33] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:49:33] [INFO]  * Restarting with stat
+[2020-04-23 15:49:34] [WARNING]  * Debugger is active!
+[2020-04-23 15:49:34] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:49:34] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:49:35] [INFO] 127.0.0.1 - - [23/Apr/2020 15:49:35] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:50:01] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:50:01] [INFO]  * Restarting with stat
+[2020-04-23 15:50:02] [WARNING]  * Debugger is active!
+[2020-04-23 15:50:02] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:50:02] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:50:03] [INFO] 127.0.0.1 - - [23/Apr/2020 15:50:03] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 15:50:03] [INFO] 127.0.0.1 - - [23/Apr/2020 15:50:03] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:50:03] [INFO] 127.0.0.1 - - [23/Apr/2020 15:50:03] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:50:03] [INFO] 127.0.0.1 - - [23/Apr/2020 15:50:03] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 15:50:03] [INFO] 127.0.0.1 - - [23/Apr/2020 15:50:03] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 15:50:03] [INFO] 127.0.0.1 - - [23/Apr/2020 15:50:03] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 15:50:03] [INFO] 127.0.0.1 - - [23/Apr/2020 15:50:03] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 15:50:14] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:50:14] [INFO]  * Restarting with stat
+[2020-04-23 15:50:15] [WARNING]  * Debugger is active!
+[2020-04-23 15:50:15] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:50:15] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:50:17] [INFO] 127.0.0.1 - - [23/Apr/2020 15:50:17] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 15:50:17] [INFO] 127.0.0.1 - - [23/Apr/2020 15:50:17] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 15:50:17] [INFO] 127.0.0.1 - - [23/Apr/2020 15:50:17] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:50:17] [INFO] 127.0.0.1 - - [23/Apr/2020 15:50:17] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:50:17] [INFO] 127.0.0.1 - - [23/Apr/2020 15:50:17] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 15:50:17] [INFO] 127.0.0.1 - - [23/Apr/2020 15:50:17] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 15:50:35] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:50:35] [INFO]  * Restarting with stat
+[2020-04-23 15:50:36] [WARNING]  * Debugger is active!
+[2020-04-23 15:50:36] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:50:36] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:50:38] [INFO] 127.0.0.1 - - [23/Apr/2020 15:50:38] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:52:25] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:52:25] [INFO]  * Restarting with stat
+[2020-04-23 15:52:26] [WARNING]  * Debugger is active!
+[2020-04-23 15:52:26] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:52:26] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:52:32] [INFO] 127.0.0.1 - - [23/Apr/2020 15:52:32] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 15:52:32] [INFO] 127.0.0.1 - - [23/Apr/2020 15:52:32] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 15:52:32] [INFO] 127.0.0.1 - - [23/Apr/2020 15:52:32] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:52:32] [INFO] 127.0.0.1 - - [23/Apr/2020 15:52:32] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:52:32] [INFO] 127.0.0.1 - - [23/Apr/2020 15:52:32] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 15:52:32] [INFO] 127.0.0.1 - - [23/Apr/2020 15:52:32] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 15:52:32] [INFO] 127.0.0.1 - - [23/Apr/2020 15:52:32] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 15:52:39] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:52:39] [INFO]  * Restarting with stat
+[2020-04-23 15:52:40] [WARNING]  * Debugger is active!
+[2020-04-23 15:52:40] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:52:40] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:52:42] [INFO] 127.0.0.1 - - [23/Apr/2020 15:52:42] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:53:08] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:53:08] [INFO]  * Restarting with stat
+[2020-04-23 15:53:09] [WARNING]  * Debugger is active!
+[2020-04-23 15:53:09] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:53:09] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:53:11] [INFO] 127.0.0.1 - - [23/Apr/2020 15:53:11] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 15:53:11] [INFO] 127.0.0.1 - - [23/Apr/2020 15:53:11] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 15:53:11] [INFO] 127.0.0.1 - - [23/Apr/2020 15:53:11] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:53:11] [INFO] 127.0.0.1 - - [23/Apr/2020 15:53:11] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 15:53:11] [INFO] 127.0.0.1 - - [23/Apr/2020 15:53:11] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 15:53:11] [INFO] 127.0.0.1 - - [23/Apr/2020 15:53:11] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 15:53:11] [INFO] 127.0.0.1 - - [23/Apr/2020 15:53:11] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 15:53:27] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:53:27] [INFO]  * Restarting with stat
+[2020-04-23 15:53:28] [WARNING]  * Debugger is active!
+[2020-04-23 15:53:28] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:53:28] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:53:28] [INFO] 127.0.0.1 - - [23/Apr/2020 15:53:28] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:54:05] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:54:05] [INFO]  * Restarting with stat
+[2020-04-23 15:54:07] [WARNING]  * Debugger is active!
+[2020-04-23 15:54:07] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:54:07] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:54:09] [INFO] 127.0.0.1 - - [23/Apr/2020 15:54:09] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 15:55:09] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 15:55:09] [INFO]  * Restarting with stat
+[2020-04-23 15:55:10] [WARNING]  * Debugger is active!
+[2020-04-23 15:55:10] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 15:55:10] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 15:55:11] [INFO] 127.0.0.1 - - [23/Apr/2020 15:55:11] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 16:01:05] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 16:01:05] [INFO]  * Restarting with stat
+[2020-04-23 16:01:06] [WARNING]  * Debugger is active!
+[2020-04-23 16:01:06] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 16:01:06] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 16:01:11] [INFO] 127.0.0.1 - - [23/Apr/2020 16:01:11] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 16:01:11] [INFO] 127.0.0.1 - - [23/Apr/2020 16:01:11] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 16:01:11] [INFO] 127.0.0.1 - - [23/Apr/2020 16:01:11] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 16:01:11] [INFO] 127.0.0.1 - - [23/Apr/2020 16:01:11] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 16:01:11] [INFO] 127.0.0.1 - - [23/Apr/2020 16:01:11] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 16:01:11] [INFO] 127.0.0.1 - - [23/Apr/2020 16:01:11] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 16:01:11] [INFO] 127.0.0.1 - - [23/Apr/2020 16:01:11] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 16:02:06] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 16:02:06] [INFO]  * Restarting with stat
+[2020-04-23 16:02:07] [WARNING]  * Debugger is active!
+[2020-04-23 16:02:07] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 16:02:07] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 16:02:36] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 16:02:36] [INFO]  * Restarting with stat
+[2020-04-23 16:02:37] [WARNING]  * Debugger is active!
+[2020-04-23 16:02:37] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 16:02:37] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 16:02:53] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 16:02:53] [INFO]  * Restarting with stat
+[2020-04-23 16:02:54] [WARNING]  * Debugger is active!
+[2020-04-23 16:02:54] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 16:02:54] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 16:02:57] [INFO] 127.0.0.1 - - [23/Apr/2020 16:02:57] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 16:03:11] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 16:03:11] [INFO]  * Restarting with stat
+[2020-04-23 16:03:12] [WARNING]  * Debugger is active!
+[2020-04-23 16:03:12] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 16:03:12] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 16:03:23] [INFO] 127.0.0.1 - - [23/Apr/2020 16:03:23] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 16:04:38] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 16:04:38] [INFO]  * Restarting with stat
+[2020-04-23 16:04:39] [WARNING]  * Debugger is active!
+[2020-04-23 16:04:39] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 16:04:39] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 16:05:12] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 16:05:12] [INFO]  * Restarting with stat
+[2020-04-23 16:05:13] [WARNING]  * Debugger is active!
+[2020-04-23 16:05:13] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 16:05:13] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 16:06:22] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 16:06:22] [INFO]  * Restarting with stat
+[2020-04-23 16:06:23] [WARNING]  * Debugger is active!
+[2020-04-23 16:06:23] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 16:06:23] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 16:06:25] [INFO] 127.0.0.1 - - [23/Apr/2020 16:06:25] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 16:07:23] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 16:07:23] [INFO]  * Restarting with stat
+[2020-04-23 16:07:24] [WARNING]  * Debugger is active!
+[2020-04-23 16:07:24] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 16:07:24] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 16:07:27] [INFO] 127.0.0.1 - - [23/Apr/2020 16:07:27] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 16:08:50] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 16:08:50] [INFO]  * Restarting with stat
+[2020-04-23 16:08:51] [WARNING]  * Debugger is active!
+[2020-04-23 16:08:51] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 16:08:51] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 16:08:52] [INFO] 127.0.0.1 - - [23/Apr/2020 16:08:52] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 16:09:42] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 16:09:42] [INFO]  * Restarting with stat
+[2020-04-23 16:09:43] [WARNING]  * Debugger is active!
+[2020-04-23 16:09:43] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 16:09:43] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 16:09:45] [INFO] 127.0.0.1 - - [23/Apr/2020 16:09:45] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 16:10:03] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 16:10:03] [INFO]  * Restarting with stat
+[2020-04-23 16:10:04] [WARNING]  * Debugger is active!
+[2020-04-23 16:10:04] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 16:10:04] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 16:10:05] [INFO] 127.0.0.1 - - [23/Apr/2020 16:10:05] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 16:10:39] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 16:10:39] [INFO]  * Restarting with stat
+[2020-04-23 16:10:40] [WARNING]  * Debugger is active!
+[2020-04-23 16:10:40] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 16:10:40] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 16:10:40] [INFO] 127.0.0.1 - - [23/Apr/2020 16:10:40] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 16:10:53] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 16:10:54] [INFO]  * Restarting with stat
+[2020-04-23 16:10:55] [WARNING]  * Debugger is active!
+[2020-04-23 16:10:55] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 16:10:55] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 16:11:01] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 16:11:01] [INFO]  * Restarting with stat
+[2020-04-23 16:11:02] [WARNING]  * Debugger is active!
+[2020-04-23 16:11:02] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 16:11:02] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 16:11:04] [INFO] 127.0.0.1 - - [23/Apr/2020 16:11:04] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 16:12:15] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 16:12:15] [INFO]  * Restarting with stat
+[2020-04-23 16:12:16] [WARNING]  * Debugger is active!
+[2020-04-23 16:12:16] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 16:12:16] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 16:12:17] [INFO] 127.0.0.1 - - [23/Apr/2020 16:12:17] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 16:12:45] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 16:12:45] [INFO]  * Restarting with stat
+[2020-04-23 16:12:46] [WARNING]  * Debugger is active!
+[2020-04-23 16:12:46] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 16:12:46] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 16:14:08] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 16:14:08] [INFO]  * Restarting with stat
+[2020-04-23 16:14:58] [INFO]  * Restarting with stat
+[2020-04-23 16:14:59] [WARNING]  * Debugger is active!
+[2020-04-23 16:14:59] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 16:14:59] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 17:17:39] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 17:17:39] [INFO]  * Restarting with stat
+[2020-04-23 17:17:40] [WARNING]  * Debugger is active!
+[2020-04-23 17:17:40] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 17:17:40] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 17:17:51] [INFO] 127.0.0.1 - - [23/Apr/2020 17:17:51] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 17:46:18] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 17:46:18] [INFO]  * Restarting with stat
+[2020-04-23 17:46:19] [WARNING]  * Debugger is active!
+[2020-04-23 17:46:19] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 17:46:19] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 17:46:38] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 17:46:39] [INFO]  * Restarting with stat
+[2020-04-23 17:52:37] [INFO]  * Restarting with stat
+[2020-04-23 17:52:39] [WARNING]  * Debugger is active!
+[2020-04-23 17:52:39] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 17:52:39] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 17:52:41] [INFO] 127.0.0.1 - - [23/Apr/2020 17:52:41] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 17:52:41] [INFO] 127.0.0.1 - - [23/Apr/2020 17:52:41] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 17:52:41] [INFO] 127.0.0.1 - - [23/Apr/2020 17:52:41] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 17:52:41] [INFO] 127.0.0.1 - - [23/Apr/2020 17:52:41] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 17:52:41] [INFO] 127.0.0.1 - - [23/Apr/2020 17:52:41] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 17:52:41] [INFO] 127.0.0.1 - - [23/Apr/2020 17:52:41] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 17:52:41] [INFO] 127.0.0.1 - - [23/Apr/2020 17:52:41] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 17:52:56] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 17:52:56] [INFO]  * Restarting with stat
+[2020-04-23 17:52:58] [WARNING]  * Debugger is active!
+[2020-04-23 17:52:58] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 17:52:58] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 17:53:00] [INFO] 127.0.0.1 - - [23/Apr/2020 17:53:00] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 17:53:00] [INFO] 127.0.0.1 - - [23/Apr/2020 17:53:00] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 17:53:00] [INFO] 127.0.0.1 - - [23/Apr/2020 17:53:00] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 17:53:00] [INFO] 127.0.0.1 - - [23/Apr/2020 17:53:00] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 17:53:00] [INFO] 127.0.0.1 - - [23/Apr/2020 17:53:00] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 17:53:00] [INFO] 127.0.0.1 - - [23/Apr/2020 17:53:00] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 17:53:43] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 17:53:43] [INFO]  * Restarting with stat
+[2020-04-23 17:53:44] [WARNING]  * Debugger is active!
+[2020-04-23 17:53:44] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 17:53:44] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 17:53:45] [INFO] 127.0.0.1 - - [23/Apr/2020 17:53:45] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 17:53:45] [INFO] 127.0.0.1 - - [23/Apr/2020 17:53:45] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 17:53:45] [INFO] 127.0.0.1 - - [23/Apr/2020 17:53:45] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 17:53:45] [INFO] 127.0.0.1 - - [23/Apr/2020 17:53:45] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 17:53:46] [INFO] 127.0.0.1 - - [23/Apr/2020 17:53:46] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 17:53:46] [INFO] 127.0.0.1 - - [23/Apr/2020 17:53:46] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 17:56:19] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 17:56:19] [INFO]  * Restarting with stat
+[2020-04-23 17:56:20] [WARNING]  * Debugger is active!
+[2020-04-23 17:56:20] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 17:56:20] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 17:56:28] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 17:56:28] [INFO]  * Restarting with stat
+[2020-04-23 17:56:29] [WARNING]  * Debugger is active!
+[2020-04-23 17:56:29] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 17:56:29] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 17:57:14] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 17:57:14] [INFO]  * Restarting with stat
+[2020-04-23 17:57:15] [WARNING]  * Debugger is active!
+[2020-04-23 17:57:15] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 17:57:15] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 17:58:29] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 17:58:29] [INFO]  * Restarting with stat
+[2020-04-23 17:58:30] [WARNING]  * Debugger is active!
+[2020-04-23 17:58:30] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 17:58:30] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 17:58:32] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 17:58:33] [INFO]  * Restarting with stat
+[2020-04-23 17:58:34] [WARNING]  * Debugger is active!
+[2020-04-23 17:58:34] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 17:58:34] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 17:58:39] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 17:58:39] [INFO]  * Restarting with stat
+[2020-04-23 17:58:40] [WARNING]  * Debugger is active!
+[2020-04-23 17:58:40] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 17:58:40] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 17:58:44] [INFO] 127.0.0.1 - - [23/Apr/2020 17:58:44] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 17:58:44] [INFO] 127.0.0.1 - - [23/Apr/2020 17:58:44] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 17:58:44] [INFO] 127.0.0.1 - - [23/Apr/2020 17:58:44] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 17:58:44] [INFO] 127.0.0.1 - - [23/Apr/2020 17:58:44] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 17:58:44] [INFO] 127.0.0.1 - - [23/Apr/2020 17:58:44] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 17:58:44] [INFO] 127.0.0.1 - - [23/Apr/2020 17:58:44] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 17:58:51] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 17:58:51] [INFO]  * Restarting with stat
+[2020-04-23 17:58:52] [WARNING]  * Debugger is active!
+[2020-04-23 17:58:52] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 17:58:52] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 17:58:56] [INFO] 127.0.0.1 - - [23/Apr/2020 17:58:56] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 17:58:56] [INFO] 127.0.0.1 - - [23/Apr/2020 17:58:56] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 17:58:56] [INFO] 127.0.0.1 - - [23/Apr/2020 17:58:56] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 17:58:56] [INFO] 127.0.0.1 - - [23/Apr/2020 17:58:56] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 17:58:56] [INFO] 127.0.0.1 - - [23/Apr/2020 17:58:56] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 17:58:56] [INFO] 127.0.0.1 - - [23/Apr/2020 17:58:56] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 17:59:04] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 17:59:04] [INFO]  * Restarting with stat
+[2020-04-23 17:59:05] [WARNING]  * Debugger is active!
+[2020-04-23 17:59:05] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 17:59:05] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:03:15] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:03:15] [INFO]  * Restarting with stat
+[2020-04-23 18:03:16] [WARNING]  * Debugger is active!
+[2020-04-23 18:03:16] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:03:16] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:03:33] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:03:33] [INFO]  * Restarting with stat
+[2020-04-23 18:03:34] [WARNING]  * Debugger is active!
+[2020-04-23 18:03:34] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:03:34] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:03:36] [INFO] 127.0.0.1 - - [23/Apr/2020 18:03:36] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 18:03:36] [INFO] 127.0.0.1 - - [23/Apr/2020 18:03:36] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 18:03:36] [INFO] 127.0.0.1 - - [23/Apr/2020 18:03:36] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:03:36] [INFO] 127.0.0.1 - - [23/Apr/2020 18:03:36] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:03:37] [INFO] 127.0.0.1 - - [23/Apr/2020 18:03:37] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:03:37] [INFO] 127.0.0.1 - - [23/Apr/2020 18:03:37] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 18:03:44] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:03:44] [INFO]  * Restarting with stat
+[2020-04-23 18:03:45] [WARNING]  * Debugger is active!
+[2020-04-23 18:03:45] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:03:45] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:03:48] [INFO] 127.0.0.1 - - [23/Apr/2020 18:03:48] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 18:03:48] [INFO] 127.0.0.1 - - [23/Apr/2020 18:03:48] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 18:03:48] [INFO] 127.0.0.1 - - [23/Apr/2020 18:03:48] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:03:48] [INFO] 127.0.0.1 - - [23/Apr/2020 18:03:48] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:03:48] [INFO] 127.0.0.1 - - [23/Apr/2020 18:03:48] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:03:48] [INFO] 127.0.0.1 - - [23/Apr/2020 18:03:48] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 18:04:31] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:04:31] [INFO]  * Restarting with stat
+[2020-04-23 18:04:32] [WARNING]  * Debugger is active!
+[2020-04-23 18:04:32] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:04:32] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:04:35] [INFO] 127.0.0.1 - - [23/Apr/2020 18:04:35] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 18:04:35] [INFO] 127.0.0.1 - - [23/Apr/2020 18:04:35] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 18:04:35] [INFO] 127.0.0.1 - - [23/Apr/2020 18:04:35] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:04:35] [INFO] 127.0.0.1 - - [23/Apr/2020 18:04:35] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:04:35] [INFO] 127.0.0.1 - - [23/Apr/2020 18:04:35] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:04:35] [INFO] 127.0.0.1 - - [23/Apr/2020 18:04:35] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 18:05:04] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:05:04] [INFO]  * Restarting with stat
+[2020-04-23 18:05:06] [WARNING]  * Debugger is active!
+[2020-04-23 18:05:06] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:05:06] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:05:07] [INFO] 127.0.0.1 - - [23/Apr/2020 18:05:07] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 18:05:07] [INFO] 127.0.0.1 - - [23/Apr/2020 18:05:07] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 18:05:07] [INFO] 127.0.0.1 - - [23/Apr/2020 18:05:07] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:05:07] [INFO] 127.0.0.1 - - [23/Apr/2020 18:05:07] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:05:07] [INFO] 127.0.0.1 - - [23/Apr/2020 18:05:07] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:05:07] [INFO] 127.0.0.1 - - [23/Apr/2020 18:05:07] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 18:05:07] [INFO] 127.0.0.1 - - [23/Apr/2020 18:05:07] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:07:12] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:07:12] [INFO]  * Restarting with stat
+[2020-04-23 18:07:13] [WARNING]  * Debugger is active!
+[2020-04-23 18:07:13] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:07:13] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:07:15] [INFO] 127.0.0.1 - - [23/Apr/2020 18:07:15] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 18:07:15] [INFO] 127.0.0.1 - - [23/Apr/2020 18:07:15] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 18:07:15] [INFO] 127.0.0.1 - - [23/Apr/2020 18:07:15] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:07:15] [INFO] 127.0.0.1 - - [23/Apr/2020 18:07:15] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:07:15] [INFO] 127.0.0.1 - - [23/Apr/2020 18:07:15] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:07:15] [INFO] 127.0.0.1 - - [23/Apr/2020 18:07:15] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 18:07:34] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:07:34] [INFO]  * Restarting with stat
+[2020-04-23 18:07:35] [WARNING]  * Debugger is active!
+[2020-04-23 18:07:35] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:07:35] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:07:36] [INFO] 127.0.0.1 - - [23/Apr/2020 18:07:36] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 18:07:36] [INFO] 127.0.0.1 - - [23/Apr/2020 18:07:36] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 18:07:36] [INFO] 127.0.0.1 - - [23/Apr/2020 18:07:36] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:07:36] [INFO] 127.0.0.1 - - [23/Apr/2020 18:07:36] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:07:37] [INFO] 127.0.0.1 - - [23/Apr/2020 18:07:37] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:07:37] [INFO] 127.0.0.1 - - [23/Apr/2020 18:07:37] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 18:10:13] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:10:13] [INFO]  * Restarting with stat
+[2020-04-23 18:10:14] [WARNING]  * Debugger is active!
+[2020-04-23 18:10:15] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:10:15] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:10:50] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:10:50] [INFO]  * Restarting with stat
+[2020-04-23 18:10:51] [WARNING]  * Debugger is active!
+[2020-04-23 18:10:51] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:10:51] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:10:53] [INFO] 127.0.0.1 - - [23/Apr/2020 18:10:53] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 18:10:53] [INFO] 127.0.0.1 - - [23/Apr/2020 18:10:53] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 18:10:53] [INFO] 127.0.0.1 - - [23/Apr/2020 18:10:53] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:10:53] [INFO] 127.0.0.1 - - [23/Apr/2020 18:10:53] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:10:53] [INFO] 127.0.0.1 - - [23/Apr/2020 18:10:53] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:10:53] [INFO] 127.0.0.1 - - [23/Apr/2020 18:10:53] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 18:11:00] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:11:00] [INFO]  * Restarting with stat
+[2020-04-23 18:11:01] [WARNING]  * Debugger is active!
+[2020-04-23 18:11:01] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:11:01] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:11:19] [INFO] 127.0.0.1 - - [23/Apr/2020 18:11:19] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 18:11:49] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:11:49] [INFO]  * Restarting with stat
+[2020-04-23 18:11:50] [WARNING]  * Debugger is active!
+[2020-04-23 18:11:50] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:11:50] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:12:56] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:12:56] [INFO]  * Restarting with stat
+[2020-04-23 18:12:57] [WARNING]  * Debugger is active!
+[2020-04-23 18:12:57] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:12:57] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:13:18] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:13:18] [INFO]  * Restarting with stat
+[2020-04-23 18:13:19] [WARNING]  * Debugger is active!
+[2020-04-23 18:13:19] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:13:19] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:13:36] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:13:36] [INFO]  * Restarting with stat
+[2020-04-23 18:13:37] [WARNING]  * Debugger is active!
+[2020-04-23 18:13:37] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:13:37] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:13:39] [INFO] 127.0.0.1 - - [23/Apr/2020 18:13:39] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 18:13:39] [INFO] 127.0.0.1 - - [23/Apr/2020 18:13:39] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 18:13:39] [INFO] 127.0.0.1 - - [23/Apr/2020 18:13:39] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:13:39] [INFO] 127.0.0.1 - - [23/Apr/2020 18:13:39] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:13:39] [INFO] 127.0.0.1 - - [23/Apr/2020 18:13:39] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:13:39] [INFO] 127.0.0.1 - - [23/Apr/2020 18:13:39] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 18:13:39] [INFO] 127.0.0.1 - - [23/Apr/2020 18:13:39] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:13:51] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:13:51] [INFO]  * Restarting with stat
+[2020-04-23 18:13:52] [WARNING]  * Debugger is active!
+[2020-04-23 18:13:52] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:13:52] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:13:53] [INFO] 127.0.0.1 - - [23/Apr/2020 18:13:53] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 18:13:53] [INFO] 127.0.0.1 - - [23/Apr/2020 18:13:53] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:13:53] [INFO] 127.0.0.1 - - [23/Apr/2020 18:13:53] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 18:13:53] [INFO] 127.0.0.1 - - [23/Apr/2020 18:13:53] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:13:53] [INFO] 127.0.0.1 - - [23/Apr/2020 18:13:53] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:13:53] [INFO] 127.0.0.1 - - [23/Apr/2020 18:13:53] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 18:14:03] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:14:03] [INFO]  * Restarting with stat
+[2020-04-23 18:14:04] [WARNING]  * Debugger is active!
+[2020-04-23 18:14:04] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:14:04] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:14:06] [INFO] 127.0.0.1 - - [23/Apr/2020 18:14:06] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 18:14:28] [INFO] 127.0.0.1 - - [23/Apr/2020 18:14:28] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 18:19:12] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:19:12] [INFO]  * Restarting with stat
+[2020-04-23 18:19:13] [WARNING]  * Debugger is active!
+[2020-04-23 18:19:13] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:19:13] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:19:16] [INFO] 127.0.0.1 - - [23/Apr/2020 18:19:16] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 18:20:36] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:20:36] [INFO]  * Restarting with stat
+[2020-04-23 18:20:37] [WARNING]  * Debugger is active!
+[2020-04-23 18:20:37] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:20:37] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:20:40] [INFO] 127.0.0.1 - - [23/Apr/2020 18:20:40] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 18:21:13] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:21:13] [INFO]  * Restarting with stat
+[2020-04-23 18:21:14] [WARNING]  * Debugger is active!
+[2020-04-23 18:21:14] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:21:14] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:21:16] [INFO] 127.0.0.1 - - [23/Apr/2020 18:21:16] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 18:22:18] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:22:18] [INFO]  * Restarting with stat
+[2020-04-23 18:22:19] [WARNING]  * Debugger is active!
+[2020-04-23 18:22:19] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:22:19] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:22:21] [INFO] 127.0.0.1 - - [23/Apr/2020 18:22:21] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 18:22:52] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:22:52] [INFO]  * Restarting with stat
+[2020-04-23 18:22:53] [WARNING]  * Debugger is active!
+[2020-04-23 18:22:53] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:22:53] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:23:18] [INFO] 127.0.0.1 - - [23/Apr/2020 18:23:18] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 18:23:18] [INFO] 127.0.0.1 - - [23/Apr/2020 18:23:18] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 18:23:18] [INFO] 127.0.0.1 - - [23/Apr/2020 18:23:18] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:23:18] [INFO] 127.0.0.1 - - [23/Apr/2020 18:23:18] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:23:18] [INFO] 127.0.0.1 - - [23/Apr/2020 18:23:18] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:23:18] [INFO] 127.0.0.1 - - [23/Apr/2020 18:23:18] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 18:23:35] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:23:35] [INFO]  * Restarting with stat
+[2020-04-23 18:23:36] [WARNING]  * Debugger is active!
+[2020-04-23 18:23:36] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:23:36] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:23:37] [INFO] 127.0.0.1 - - [23/Apr/2020 18:23:37] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 18:23:37] [INFO] 127.0.0.1 - - [23/Apr/2020 18:23:37] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 18:23:37] [INFO] 127.0.0.1 - - [23/Apr/2020 18:23:37] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:23:37] [INFO] 127.0.0.1 - - [23/Apr/2020 18:23:37] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:23:37] [INFO] 127.0.0.1 - - [23/Apr/2020 18:23:37] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:23:37] [INFO] 127.0.0.1 - - [23/Apr/2020 18:23:37] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 18:24:04] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:24:04] [INFO]  * Restarting with stat
+[2020-04-23 18:24:05] [WARNING]  * Debugger is active!
+[2020-04-23 18:24:05] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:24:05] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:24:10] [INFO] 127.0.0.1 - - [23/Apr/2020 18:24:10] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 18:28:04] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:28:04] [INFO]  * Restarting with stat
+[2020-04-23 18:28:05] [WARNING]  * Debugger is active!
+[2020-04-23 18:28:05] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:28:05] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:28:08] [INFO] 127.0.0.1 - - [23/Apr/2020 18:28:08] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 18:28:08] [INFO] 127.0.0.1 - - [23/Apr/2020 18:28:08] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 18:28:08] [INFO] 127.0.0.1 - - [23/Apr/2020 18:28:08] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:28:08] [INFO] 127.0.0.1 - - [23/Apr/2020 18:28:08] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:28:08] [INFO] 127.0.0.1 - - [23/Apr/2020 18:28:08] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:28:08] [INFO] 127.0.0.1 - - [23/Apr/2020 18:28:08] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 18:32:59] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:32:59] [INFO]  * Restarting with stat
+[2020-04-23 18:37:56] [INFO]  * Restarting with stat
+[2020-04-23 18:37:57] [WARNING]  * Debugger is active!
+[2020-04-23 18:37:57] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:37:57] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:38:00] [INFO] 127.0.0.1 - - [23/Apr/2020 18:38:00] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 18:38:00] [INFO] 127.0.0.1 - - [23/Apr/2020 18:38:00] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 18:38:00] [INFO] 127.0.0.1 - - [23/Apr/2020 18:38:00] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:38:00] [INFO] 127.0.0.1 - - [23/Apr/2020 18:38:00] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:38:00] [INFO] 127.0.0.1 - - [23/Apr/2020 18:38:00] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:38:00] [INFO] 127.0.0.1 - - [23/Apr/2020 18:38:00] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 18:40:32] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:40:32] [INFO]  * Restarting with stat
+[2020-04-23 18:40:33] [WARNING]  * Debugger is active!
+[2020-04-23 18:40:33] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:40:33] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:40:34] [INFO] 127.0.0.1 - - [23/Apr/2020 18:40:34] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 18:40:34] [INFO] 127.0.0.1 - - [23/Apr/2020 18:40:34] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 18:40:34] [INFO] 127.0.0.1 - - [23/Apr/2020 18:40:34] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:40:34] [INFO] 127.0.0.1 - - [23/Apr/2020 18:40:34] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:40:34] [INFO] 127.0.0.1 - - [23/Apr/2020 18:40:34] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:40:34] [INFO] 127.0.0.1 - - [23/Apr/2020 18:40:34] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 18:41:41] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:41:41] [INFO]  * Restarting with stat
+[2020-04-23 18:41:42] [WARNING]  * Debugger is active!
+[2020-04-23 18:41:42] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:41:42] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:41:43] [INFO] 127.0.0.1 - - [23/Apr/2020 18:41:43] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 18:41:43] [INFO] 127.0.0.1 - - [23/Apr/2020 18:41:43] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 18:41:43] [INFO] 127.0.0.1 - - [23/Apr/2020 18:41:43] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:41:43] [INFO] 127.0.0.1 - - [23/Apr/2020 18:41:43] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:41:43] [INFO] 127.0.0.1 - - [23/Apr/2020 18:41:43] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:41:43] [INFO] 127.0.0.1 - - [23/Apr/2020 18:41:43] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 18:41:59] [INFO] 127.0.0.1 - - [23/Apr/2020 18:41:59] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 18:41:59] [INFO] 127.0.0.1 - - [23/Apr/2020 18:41:59] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 18:41:59] [INFO] 127.0.0.1 - - [23/Apr/2020 18:41:59] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:41:59] [INFO] 127.0.0.1 - - [23/Apr/2020 18:41:59] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:41:59] [INFO] 127.0.0.1 - - [23/Apr/2020 18:41:59] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:41:59] [INFO] 127.0.0.1 - - [23/Apr/2020 18:41:59] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 18:44:57] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:44:57] [INFO]  * Restarting with stat
+[2020-04-23 18:48:18] [INFO]  * Restarting with stat
+[2020-04-23 18:48:19] [WARNING]  * Debugger is active!
+[2020-04-23 18:48:19] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:48:19] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:48:21] [INFO] 127.0.0.1 - - [23/Apr/2020 18:48:21] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 18:48:22] [INFO] 127.0.0.1 - - [23/Apr/2020 18:48:22] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 18:48:22] [INFO] 127.0.0.1 - - [23/Apr/2020 18:48:22] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:48:22] [INFO] 127.0.0.1 - - [23/Apr/2020 18:48:22] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:48:22] [INFO] 127.0.0.1 - - [23/Apr/2020 18:48:22] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:48:22] [INFO] 127.0.0.1 - - [23/Apr/2020 18:48:22] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 18:49:07] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:49:08] [INFO]  * Restarting with stat
+[2020-04-23 18:49:09] [WARNING]  * Debugger is active!
+[2020-04-23 18:49:09] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:49:09] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:51:55] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:51:55] [INFO]  * Restarting with stat
+[2020-04-23 18:51:56] [WARNING]  * Debugger is active!
+[2020-04-23 18:51:56] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:51:56] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:52:21] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:52:21] [INFO]  * Restarting with stat
+[2020-04-23 18:52:46] [INFO]  * Restarting with stat
+[2020-04-23 18:52:47] [WARNING]  * Debugger is active!
+[2020-04-23 18:52:47] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:52:47] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:52:49] [INFO] 127.0.0.1 - - [23/Apr/2020 18:52:49] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 18:52:49] [INFO] 127.0.0.1 - - [23/Apr/2020 18:52:49] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 18:52:49] [INFO] 127.0.0.1 - - [23/Apr/2020 18:52:49] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:52:49] [INFO] 127.0.0.1 - - [23/Apr/2020 18:52:49] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:52:49] [INFO] 127.0.0.1 - - [23/Apr/2020 18:52:49] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:52:49] [INFO] 127.0.0.1 - - [23/Apr/2020 18:52:49] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 18:53:16] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:53:16] [INFO]  * Restarting with stat
+[2020-04-23 18:53:17] [WARNING]  * Debugger is active!
+[2020-04-23 18:53:17] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:53:17] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:53:18] [INFO] 127.0.0.1 - - [23/Apr/2020 18:53:18] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 18:53:18] [INFO] 127.0.0.1 - - [23/Apr/2020 18:53:18] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 18:53:18] [INFO] 127.0.0.1 - - [23/Apr/2020 18:53:18] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:53:18] [INFO] 127.0.0.1 - - [23/Apr/2020 18:53:18] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:53:18] [INFO] 127.0.0.1 - - [23/Apr/2020 18:53:18] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:53:18] [INFO] 127.0.0.1 - - [23/Apr/2020 18:53:18] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 18:55:05] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:55:05] [INFO]  * Restarting with stat
+[2020-04-23 18:56:31] [INFO]  * Restarting with stat
+[2020-04-23 18:56:32] [WARNING]  * Debugger is active!
+[2020-04-23 18:56:32] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:56:32] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:56:35] [INFO] 127.0.0.1 - - [23/Apr/2020 18:56:35] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 18:57:24] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:57:24] [INFO]  * Restarting with stat
+[2020-04-23 18:57:25] [WARNING]  * Debugger is active!
+[2020-04-23 18:57:25] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:57:25] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:57:27] [INFO] 127.0.0.1 - - [23/Apr/2020 18:57:27] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 18:58:06] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:58:06] [INFO]  * Restarting with stat
+[2020-04-23 18:58:07] [WARNING]  * Debugger is active!
+[2020-04-23 18:58:07] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:58:07] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:58:40] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:58:40] [INFO]  * Restarting with stat
+[2020-04-23 18:58:41] [WARNING]  * Debugger is active!
+[2020-04-23 18:58:41] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:58:41] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:58:43] [INFO] 127.0.0.1 - - [23/Apr/2020 18:58:43] "[35m[1mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 500 -
+[2020-04-23 18:58:43] [INFO] 127.0.0.1 - - [23/Apr/2020 18:58:43] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-04-23 18:58:43] [INFO] 127.0.0.1 - - [23/Apr/2020 18:58:43] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:58:43] [INFO] 127.0.0.1 - - [23/Apr/2020 18:58:43] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-04-23 18:58:43] [INFO] 127.0.0.1 - - [23/Apr/2020 18:58:43] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:58:43] [INFO] 127.0.0.1 - - [23/Apr/2020 18:58:43] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-04-23 18:58:43] [INFO] 127.0.0.1 - - [23/Apr/2020 18:58:43] "[37mGET /admin/downloadAdminUserListExcel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-04-23 18:58:56] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:58:56] [INFO]  * Restarting with stat
+[2020-04-23 18:58:57] [WARNING]  * Debugger is active!
+[2020-04-23 18:58:57] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:58:57] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 18:58:58] [INFO] 127.0.0.1 - - [23/Apr/2020 18:58:58] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 18:59:27] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 18:59:27] [INFO]  * Restarting with stat
+[2020-04-23 18:59:28] [WARNING]  * Debugger is active!
+[2020-04-23 18:59:28] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 18:59:28] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 19:00:05] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 19:00:05] [INFO]  * Restarting with stat
+[2020-04-23 19:00:06] [WARNING]  * Debugger is active!
+[2020-04-23 19:00:06] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 19:00:06] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 19:00:14] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 19:00:14] [INFO]  * Restarting with stat
+[2020-04-23 19:00:15] [WARNING]  * Debugger is active!
+[2020-04-23 19:00:15] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-23 19:00:15] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 19:00:16] [INFO] 127.0.0.1 - - [23/Apr/2020 19:00:16] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 19:14:19] [INFO] 127.0.0.1 - - [23/Apr/2020 19:14:19] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -
+[2020-04-23 19:15:00] [INFO] 127.0.0.1 - - [23/Apr/2020 19:15:00] "[37mGET /admin/downloadAdminUserListExcel HTTP/1.1[0m" 200 -

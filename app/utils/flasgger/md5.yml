@@ -1,0 +1,15 @@
+加密
+---
+tags:
+  - 加密
+description:
+    输入需要加密的内容
+parameters:
+  - name: str
+    type: string
+    in: query
+    required: true
+    description: 需加密字符串
+responses:
+    200:
+      description: 密文

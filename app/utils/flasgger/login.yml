@@ -1,0 +1,22 @@
+登录②
+---
+tags:
+  - 用户相关接口
+description:
+    输入账号密码进行登录获取用户id和token( 注:登录密码需先调用加密接口进行加密再填入)
+parameters:
+  - name: userName
+    type: string
+    in: query
+    required: true
+    default: sen
+    description: 用户名
+  - name: passWord
+    type: string
+    in: query
+    required: true
+    default: sen
+    description: 密码
+responses:
+    200:
+      description: 登录成功，返回登录用户信息,以及token

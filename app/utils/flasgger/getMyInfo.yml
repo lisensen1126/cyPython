@@ -1,0 +1,20 @@
+获取用户信息
+---
+tags:
+  - 用户相关接口
+description:
+    获取用户信息，输入用户id及请求头中的token(____先通过登录接口获取用户id及token_____)
+parameters:
+  - name: Authorization
+    type: string
+    in: header
+    required: true
+    description: 请求头中的token
+  - name: id
+    type: integer
+    in: path
+    required: true
+    description: 请求路径中的id
+responses:
+    200:
+      description: 返回用户的详细信息

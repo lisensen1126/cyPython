@@ -1,0 +1,1261 @@
+
+[2020-04-22 17:15:07] [INFO]  * Restarting with stat
+[2020-04-22 17:15:07] [INFO]  * Restarting with stat
+[2020-04-22 17:15:09] [WARNING]  * Debugger is active!
+[2020-04-22 17:15:09] [WARNING]  * Debugger is active!
+[2020-04-22 17:15:09] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:15:09] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:15:09] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:15:09] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:15:16] [INFO] 127.0.0.1 - - [22/Apr/2020 17:15:16] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:15:16] [INFO] 127.0.0.1 - - [22/Apr/2020 17:15:16] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:15:16] [INFO] 127.0.0.1 - - [22/Apr/2020 17:15:16] "[35m[1mGET /admin/getMyInfo/1 HTTP/1.1[0m" 500 -
+[2020-04-22 17:15:16] [INFO] 127.0.0.1 - - [22/Apr/2020 17:15:16] "[35m[1mGET /admin/getMyInfo/1 HTTP/1.1[0m" 500 -
+[2020-04-22 17:15:16] [ERROR] Error on request:
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 304, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flasgger\utils.py", line 255, in wrapper
+    return function(*args, **kwargs)
+  File "E:\pythonœÓƒø\cyPython\app\admin\router.py", line 44, in getMyInfo
+    return logic.getMyInfo(request,id)
+  File "E:\pythonœÓƒø\cyPython\app\utils\tokenUtils.py", line 9, in wrapped
+    print('aaaaaa',request.headers)
+OSError: [Errno 22] Invalid argument
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 323, in run_wsgi
+    execute(self.server.app)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 314, in execute
+    for data in application_iter:
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 347, in debug_application
+    traceback.log(environ["wsgi.errors"])
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\tbtools.py", line 284, in log
+    logfile.write(to_native(tb, "utf-8", "replace"))
+OSError: [Errno 22] Invalid argument
+[2020-04-22 17:15:16] [ERROR] Error on request:
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 304, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flasgger\utils.py", line 255, in wrapper
+    return function(*args, **kwargs)
+  File "E:\pythonœÓƒø\cyPython\app\admin\router.py", line 44, in getMyInfo
+    return logic.getMyInfo(request,id)
+  File "E:\pythonœÓƒø\cyPython\app\utils\tokenUtils.py", line 9, in wrapped
+    print('aaaaaa',request.headers)
+OSError: [Errno 22] Invalid argument
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 323, in run_wsgi
+    execute(self.server.app)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 314, in execute
+    for data in application_iter:
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 347, in debug_application
+    traceback.log(environ["wsgi.errors"])
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\tbtools.py", line 284, in log
+    logfile.write(to_native(tb, "utf-8", "replace"))
+OSError: [Errno 22] Invalid argument
+[2020-04-22 17:15:30] [INFO]  * Restarting with stat
+[2020-04-22 17:15:30] [INFO]  * Restarting with stat
+[2020-04-22 17:15:32] [WARNING]  * Debugger is active!
+[2020-04-22 17:15:32] [WARNING]  * Debugger is active!
+[2020-04-22 17:15:32] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:15:32] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:15:32] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:15:32] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:15:37] [INFO] 127.0.0.1 - - [22/Apr/2020 17:15:37] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:15:37] [INFO] 127.0.0.1 - - [22/Apr/2020 17:15:37] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:15:37] [INFO] 127.0.0.1 - - [22/Apr/2020 17:15:37] "[35m[1mGET /admin/getMyInfo/1 HTTP/1.1[0m" 500 -
+[2020-04-22 17:15:37] [INFO] 127.0.0.1 - - [22/Apr/2020 17:15:37] "[35m[1mGET /admin/getMyInfo/1 HTTP/1.1[0m" 500 -
+[2020-04-22 17:15:37] [ERROR] Error on request:
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 304, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flasgger\utils.py", line 255, in wrapper
+    return function(*args, **kwargs)
+  File "E:\pythonœÓƒø\cyPython\app\admin\router.py", line 44, in getMyInfo
+    return logic.getMyInfo(request,id)
+  File "E:\pythonœÓƒø\cyPython\app\utils\tokenUtils.py", line 9, in wrapped
+    print('aaaaaa',request.headers)
+OSError: [Errno 22] Invalid argument
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 323, in run_wsgi
+    execute(self.server.app)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 314, in execute
+    for data in application_iter:
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 347, in debug_application
+    traceback.log(environ["wsgi.errors"])
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\tbtools.py", line 284, in log
+    logfile.write(to_native(tb, "utf-8", "replace"))
+OSError: [Errno 22] Invalid argument
+[2020-04-22 17:15:37] [ERROR] Error on request:
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 304, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flasgger\utils.py", line 255, in wrapper
+    return function(*args, **kwargs)
+  File "E:\pythonœÓƒø\cyPython\app\admin\router.py", line 44, in getMyInfo
+    return logic.getMyInfo(request,id)
+  File "E:\pythonœÓƒø\cyPython\app\utils\tokenUtils.py", line 9, in wrapped
+    print('aaaaaa',request.headers)
+OSError: [Errno 22] Invalid argument
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 323, in run_wsgi
+    execute(self.server.app)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 314, in execute
+    for data in application_iter:
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 347, in debug_application
+    traceback.log(environ["wsgi.errors"])
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\tbtools.py", line 284, in log
+    logfile.write(to_native(tb, "utf-8", "replace"))
+OSError: [Errno 22] Invalid argument
+[2020-04-22 17:16:20] [INFO]  * Restarting with stat
+[2020-04-22 17:16:20] [INFO]  * Restarting with stat
+[2020-04-22 17:16:21] [WARNING]  * Debugger is active!
+[2020-04-22 17:16:21] [WARNING]  * Debugger is active!
+[2020-04-22 17:16:21] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:16:21] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:16:21] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:16:21] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:16:30] [INFO] 127.0.0.1 - - [22/Apr/2020 17:16:30] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:16:30] [INFO] 127.0.0.1 - - [22/Apr/2020 17:16:30] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:16:30] [INFO] 127.0.0.1 - - [22/Apr/2020 17:16:30] "[35m[1mGET /admin/getMyInfo/1 HTTP/1.1[0m" 500 -
+[2020-04-22 17:16:30] [INFO] 127.0.0.1 - - [22/Apr/2020 17:16:30] "[35m[1mGET /admin/getMyInfo/1 HTTP/1.1[0m" 500 -
+[2020-04-22 17:16:30] [ERROR] Error on request:
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 304, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flasgger\utils.py", line 255, in wrapper
+    return function(*args, **kwargs)
+  File "E:\pythonœÓƒø\cyPython\app\admin\router.py", line 44, in getMyInfo
+    return logic.getMyInfo(request,id)
+  File "E:\pythonœÓƒø\cyPython\app\utils\tokenUtils.py", line 9, in wrapped
+    print('aaaaaa',request.headers)
+OSError: [Errno 22] Invalid argument
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 323, in run_wsgi
+    execute(self.server.app)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 314, in execute
+    for data in application_iter:
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 347, in debug_application
+    traceback.log(environ["wsgi.errors"])
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\tbtools.py", line 284, in log
+    logfile.write(to_native(tb, "utf-8", "replace"))
+OSError: [Errno 22] Invalid argument
+[2020-04-22 17:16:30] [ERROR] Error on request:
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 304, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flasgger\utils.py", line 255, in wrapper
+    return function(*args, **kwargs)
+  File "E:\pythonœÓƒø\cyPython\app\admin\router.py", line 44, in getMyInfo
+    return logic.getMyInfo(request,id)
+  File "E:\pythonœÓƒø\cyPython\app\utils\tokenUtils.py", line 9, in wrapped
+    print('aaaaaa',request.headers)
+OSError: [Errno 22] Invalid argument
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 323, in run_wsgi
+    execute(self.server.app)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 314, in execute
+    for data in application_iter:
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 347, in debug_application
+    traceback.log(environ["wsgi.errors"])
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\tbtools.py", line 284, in log
+    logfile.write(to_native(tb, "utf-8", "replace"))
+OSError: [Errno 22] Invalid argument
+[2020-04-22 17:17:33] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\tokenUtils.py', reloading
+[2020-04-22 17:17:33] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\tokenUtils.py', reloading
+[2020-04-22 17:17:33] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\tokenUtils.py', reloading
+[2020-04-22 17:17:33] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\tokenUtils.py', reloading
+[2020-04-22 17:17:33] [INFO]  * Restarting with stat
+[2020-04-22 17:17:33] [INFO]  * Restarting with stat
+[2020-04-22 17:17:34] [WARNING]  * Debugger is active!
+[2020-04-22 17:17:34] [WARNING]  * Debugger is active!
+[2020-04-22 17:17:34] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:17:34] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:17:34] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:17:34] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:17:35] [INFO]  * Restarting with stat
+[2020-04-22 17:17:35] [INFO]  * Restarting with stat
+[2020-04-22 17:17:36] [WARNING]  * Debugger is active!
+[2020-04-22 17:17:36] [WARNING]  * Debugger is active!
+[2020-04-22 17:17:36] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:17:36] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:17:36] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:17:36] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:17:39] [INFO] 127.0.0.1 - - [22/Apr/2020 17:17:39] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:17:39] [INFO] 127.0.0.1 - - [22/Apr/2020 17:17:39] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:17:39] [INFO] 127.0.0.1 - - [22/Apr/2020 17:17:39] "[35m[1mGET /admin/getMyInfo/1 HTTP/1.1[0m" 500 -
+[2020-04-22 17:17:39] [INFO] 127.0.0.1 - - [22/Apr/2020 17:17:39] "[35m[1mGET /admin/getMyInfo/1 HTTP/1.1[0m" 500 -
+[2020-04-22 17:17:39] [ERROR] Error on request:
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 304, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flasgger\utils.py", line 255, in wrapper
+    return function(*args, **kwargs)
+  File "E:\pythonœÓƒø\cyPython\app\admin\router.py", line 44, in getMyInfo
+    return logic.getMyInfo(request,id)
+  File "E:\pythonœÓƒø\cyPython\app\utils\tokenUtils.py", line 23, in wrapped
+    return func(request,*args, **kwargs)
+  File "E:\pythonœÓƒø\cyPython\app\utils\recordCallTimes.py", line 5, in wrapped
+    print('º«¬ºΩ”ø⁄«Î«Û',request.path)
+OSError: [Errno 22] Invalid argument
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 323, in run_wsgi
+    execute(self.server.app)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 314, in execute
+    for data in application_iter:
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 347, in debug_application
+    traceback.log(environ["wsgi.errors"])
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\tbtools.py", line 284, in log
+    logfile.write(to_native(tb, "utf-8", "replace"))
+OSError: [Errno 22] Invalid argument
+[2020-04-22 17:17:39] [ERROR] Error on request:
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 304, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flasgger\utils.py", line 255, in wrapper
+    return function(*args, **kwargs)
+  File "E:\pythonœÓƒø\cyPython\app\admin\router.py", line 44, in getMyInfo
+    return logic.getMyInfo(request,id)
+  File "E:\pythonœÓƒø\cyPython\app\utils\tokenUtils.py", line 23, in wrapped
+    return func(request,*args, **kwargs)
+  File "E:\pythonœÓƒø\cyPython\app\utils\recordCallTimes.py", line 5, in wrapped
+    print('º«¬ºΩ”ø⁄«Î«Û',request.path)
+OSError: [Errno 22] Invalid argument
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 323, in run_wsgi
+    execute(self.server.app)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 314, in execute
+    for data in application_iter:
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 347, in debug_application
+    traceback.log(environ["wsgi.errors"])
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\tbtools.py", line 284, in log
+    logfile.write(to_native(tb, "utf-8", "replace"))
+OSError: [Errno 22] Invalid argument
+[2020-04-22 17:19:28] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\recordCallTimes.py', reloading
+[2020-04-22 17:19:28] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\recordCallTimes.py', reloading
+[2020-04-22 17:19:28] [INFO]  * Restarting with stat
+[2020-04-22 17:19:28] [INFO]  * Restarting with stat
+[2020-04-22 17:19:28] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\recordCallTimes.py', reloading
+[2020-04-22 17:19:28] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\recordCallTimes.py', reloading
+[2020-04-22 17:19:29] [WARNING]  * Debugger is active!
+[2020-04-22 17:19:29] [WARNING]  * Debugger is active!
+[2020-04-22 17:19:29] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:19:29] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:19:29] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:19:29] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:19:29] [WARNING]  * Debugger is active!
+[2020-04-22 17:19:29] [WARNING]  * Debugger is active!
+[2020-04-22 17:19:29] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:19:29] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:19:29] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:19:29] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:19:37] [INFO]  * Restarting with stat
+[2020-04-22 17:19:37] [INFO]  * Restarting with stat
+[2020-04-22 17:19:38] [WARNING]  * Debugger is active!
+[2020-04-22 17:19:38] [WARNING]  * Debugger is active!
+[2020-04-22 17:19:38] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:19:38] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:19:38] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:19:38] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:19:42] [INFO] 127.0.0.1 - - [22/Apr/2020 17:19:42] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:19:42] [INFO] 127.0.0.1 - - [22/Apr/2020 17:19:42] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:19:42] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ/admin/getMyInfo/1
+[2020-04-22 17:19:42] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ/admin/getMyInfo/1
+[2020-04-22 17:19:42] [INFO] 127.0.0.1 - - [22/Apr/2020 17:19:42] "[35m[1mGET /admin/getMyInfo/1 HTTP/1.1[0m" 500 -
+[2020-04-22 17:19:42] [INFO] 127.0.0.1 - - [22/Apr/2020 17:19:42] "[35m[1mGET /admin/getMyInfo/1 HTTP/1.1[0m" 500 -
+[2020-04-22 17:19:42] [ERROR] Error on request:
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 304, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flasgger\utils.py", line 255, in wrapper
+    return function(*args, **kwargs)
+  File "E:\pythonœÓƒø\cyPython\app\admin\router.py", line 44, in getMyInfo
+    return logic.getMyInfo(request,id)
+  File "E:\pythonœÓƒø\cyPython\app\utils\tokenUtils.py", line 23, in wrapped
+    return func(request,*args, **kwargs)
+  File "E:\pythonœÓƒø\cyPython\app\utils\recordCallTimes.py", line 12, in wrapped
+    return func(request, *args, **kwargs)
+  File "E:\pythonœÓƒø\cyPython\app\utils\logUtil.py", line 52, in wrapped
+    return func(request,*args, **kwargs)
+  File "E:\pythonœÓƒø\cyPython\app\admin\logic.py", line 277, in getMyInfo
+    print('id',id)
+OSError: [Errno 22] Invalid argument
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 323, in run_wsgi
+    execute(self.server.app)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 314, in execute
+    for data in application_iter:
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 347, in debug_application
+    traceback.log(environ["wsgi.errors"])
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\tbtools.py", line 284, in log
+    logfile.write(to_native(tb, "utf-8", "replace"))
+OSError: [Errno 22] Invalid argument
+[2020-04-22 17:19:42] [ERROR] Error on request:
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 304, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flasgger\utils.py", line 255, in wrapper
+    return function(*args, **kwargs)
+  File "E:\pythonœÓƒø\cyPython\app\admin\router.py", line 44, in getMyInfo
+    return logic.getMyInfo(request,id)
+  File "E:\pythonœÓƒø\cyPython\app\utils\tokenUtils.py", line 23, in wrapped
+    return func(request,*args, **kwargs)
+  File "E:\pythonœÓƒø\cyPython\app\utils\recordCallTimes.py", line 12, in wrapped
+    return func(request, *args, **kwargs)
+  File "E:\pythonœÓƒø\cyPython\app\utils\logUtil.py", line 52, in wrapped
+    return func(request,*args, **kwargs)
+  File "E:\pythonœÓƒø\cyPython\app\admin\logic.py", line 277, in getMyInfo
+    print('id',id)
+OSError: [Errno 22] Invalid argument
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 323, in run_wsgi
+    execute(self.server.app)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 314, in execute
+    for data in application_iter:
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 347, in debug_application
+    traceback.log(environ["wsgi.errors"])
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\tbtools.py", line 284, in log
+    logfile.write(to_native(tb, "utf-8", "replace"))
+OSError: [Errno 22] Invalid argument
+[2020-04-22 17:20:04] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 17:20:04] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 17:20:04] [INFO]  * Restarting with stat
+[2020-04-22 17:20:04] [INFO]  * Restarting with stat
+[2020-04-22 17:20:04] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 17:20:04] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 17:20:05] [WARNING]  * Debugger is active!
+[2020-04-22 17:20:05] [WARNING]  * Debugger is active!
+[2020-04-22 17:20:05] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:20:05] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:20:05] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:20:05] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:20:05] [WARNING]  * Debugger is active!
+[2020-04-22 17:20:05] [WARNING]  * Debugger is active!
+[2020-04-22 17:20:05] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:20:05] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:20:05] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:20:05] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:20:07] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 17:20:07] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 17:20:07] [INFO]  * Restarting with stat
+[2020-04-22 17:20:07] [INFO]  * Restarting with stat
+[2020-04-22 17:20:07] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 17:20:07] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 17:20:08] [WARNING]  * Debugger is active!
+[2020-04-22 17:20:08] [WARNING]  * Debugger is active!
+[2020-04-22 17:20:08] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:20:08] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:20:08] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:20:08] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:20:08] [WARNING]  * Debugger is active!
+[2020-04-22 17:20:08] [WARNING]  * Debugger is active!
+[2020-04-22 17:20:08] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:20:08] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:20:08] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:20:08] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:20:11] [INFO] 127.0.0.1 - - [22/Apr/2020 17:20:11] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:20:11] [INFO] 127.0.0.1 - - [22/Apr/2020 17:20:11] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:20:11] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ/admin/getMyInfo/1
+[2020-04-22 17:20:11] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ/admin/getMyInfo/1
+[2020-04-22 17:20:11] [INFO] 127.0.0.1 - - [22/Apr/2020 17:20:11] "[37mGET /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:20:11] [INFO] 127.0.0.1 - - [22/Apr/2020 17:20:11] "[37mGET /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:21:12] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 17:21:12] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 17:21:12] [INFO]  * Restarting with stat
+[2020-04-22 17:21:12] [INFO]  * Restarting with stat
+[2020-04-22 17:21:13] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 17:21:13] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 17:21:13] [WARNING]  * Debugger is active!
+[2020-04-22 17:21:13] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:21:13] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:21:14] [WARNING]  * Debugger is active!
+[2020-04-22 17:21:14] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:21:14] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:21:16] [INFO] 127.0.0.1 - - [22/Apr/2020 17:21:16] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:21:16] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ/admin/getMyInfo/1
+[2020-04-22 17:21:16] [INFO] 127.0.0.1 - - [22/Apr/2020 17:21:16] "[37mGET /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:23:42] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 17:23:43] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 17:23:43] [INFO]  * Restarting with stat
+[2020-04-22 17:23:43] [INFO]  * Restarting with stat
+[2020-04-22 17:23:43] [WARNING]  * Debugger is active!
+[2020-04-22 17:23:43] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:23:43] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:23:44] [WARNING]  * Debugger is active!
+[2020-04-22 17:23:44] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:23:44] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:23:46] [INFO] 127.0.0.1 - - [22/Apr/2020 17:23:46] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:23:46] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getMyInfo/1
+[2020-04-22 17:23:46] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzUzNDA3NCwiZXhwIjoxNTg3NjIwNDc0fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.WHiVAvGgopJGpy1yFs_Ny9aLUqzaY3PpMrU5KE_IWGvGgWXBpP21rDWc6uaElOicyZx6E-uC_jc3PD2BfsvvHA
+[2020-04-22 17:23:46] [INFO] 127.0.0.1 - - [22/Apr/2020 17:23:46] "[35m[1mGET /admin/getMyInfo/1 HTTP/1.1[0m" 500 -
+[2020-04-22 17:23:46] [ERROR] Error on request:
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 304, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\flasgger\utils.py", line 255, in wrapper
+    return function(*args, **kwargs)
+  File "E:\pythonœÓƒø\cyPython\app\admin\router.py", line 44, in getMyInfo
+    return logic.getMyInfo(request,id)
+  File "E:\pythonœÓƒø\cyPython\app\utils\tokenUtils.py", line 23, in wrapped
+    return func(request,*args, **kwargs)
+  File "E:\pythonœÓƒø\cyPython\app\utils\recordCallTimes.py", line 12, in wrapped
+    return func(request, *args, **kwargs)
+  File "E:\pythonœÓƒø\cyPython\app\utils\logUtil.py", line 56, in wrapped
+    mylog.debug('ø™ º¥Ú”°«Î«Û∑Ω Ω------{}'.format(request.methods))
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\local.py", line 347, in __getattr__
+    return getattr(self._get_current_object(), name)
+AttributeError: 'Request' object has no attribute 'methods'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 323, in run_wsgi
+    execute(self.server.app)
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\serving.py", line 314, in execute
+    for data in application_iter:
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 347, in debug_application
+    traceback.log(environ["wsgi.errors"])
+  File "E:\pythonœÓƒø\cyPython\venv\Lib\site-packages\werkzeug\debug\tbtools.py", line 284, in log
+    logfile.write(to_native(tb, "utf-8", "replace"))
+OSError: [Errno 22] Invalid argument
+[2020-04-22 17:24:53] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 17:24:53] [INFO]  * Restarting with stat
+[2020-04-22 17:24:53] [INFO]  * Restarting with stat
+[2020-04-22 17:24:53] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 17:24:54] [WARNING]  * Debugger is active!
+[2020-04-22 17:24:54] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:24:54] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:24:54] [WARNING]  * Debugger is active!
+[2020-04-22 17:24:54] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:24:54] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:26:09] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 17:26:09] [INFO]  * Restarting with stat
+[2020-04-22 17:26:09] [INFO]  * Restarting with stat
+[2020-04-22 17:26:09] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 17:26:10] [WARNING]  * Debugger is active!
+[2020-04-22 17:26:10] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:26:10] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:26:11] [WARNING]  * Debugger is active!
+[2020-04-22 17:26:11] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:26:11] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:26:15] [INFO] 127.0.0.1 - - [22/Apr/2020 17:26:15] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:26:15] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getMyInfo/1
+[2020-04-22 17:26:15] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzUzNDA3NCwiZXhwIjoxNTg3NjIwNDc0fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.WHiVAvGgopJGpy1yFs_Ny9aLUqzaY3PpMrU5KE_IWGvGgWXBpP21rDWc6uaElOicyZx6E-uC_jc3PD2BfsvvHA
+[2020-04-22 17:26:15] [DEBUG] ø™ º¥Ú”°«Î«Û∑Ω Ω------GET
+[2020-04-22 17:26:15] [INFO] 127.0.0.1 - - [22/Apr/2020 17:26:15] "[37mGET /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:27:30] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 17:27:30] [INFO]  * Restarting with stat
+[2020-04-22 17:27:30] [INFO]  * Restarting with stat
+[2020-04-22 17:27:30] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 17:27:47] [INFO]  * Restarting with stat
+[2020-04-22 17:27:48] [WARNING]  * Debugger is active!
+[2020-04-22 17:27:48] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:27:48] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:27:51] [INFO] 127.0.0.1 - - [22/Apr/2020 17:27:51] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:27:51] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getMyInfo/1
+[2020-04-22 17:27:51] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzUzNDA3NCwiZXhwIjoxNTg3NjIwNDc0fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.WHiVAvGgopJGpy1yFs_Ny9aLUqzaY3PpMrU5KE_IWGvGgWXBpP21rDWc6uaElOicyZx6E-uC_jc3PD2BfsvvHA
+[2020-04-22 17:27:51] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 17:27:51] [DEBUG] «Î«Û≤Œ ˝------CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+[2020-04-22 17:27:51] [INFO] 127.0.0.1 - - [22/Apr/2020 17:27:51] "[37mGET /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:28:48] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 17:28:48] [INFO]  * Restarting with stat
+[2020-04-22 17:28:49] [WARNING]  * Debugger is active!
+[2020-04-22 17:28:49] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:28:49] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:28:51] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 17:28:51] [INFO]  * Restarting with stat
+[2020-04-22 17:28:52] [WARNING]  * Debugger is active!
+[2020-04-22 17:28:52] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:28:52] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:28:55] [INFO] 127.0.0.1 - - [22/Apr/2020 17:28:55] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:28:55] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getMyInfo/1
+[2020-04-22 17:28:55] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzUzNDA3NCwiZXhwIjoxNTg3NjIwNDc0fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.WHiVAvGgopJGpy1yFs_Ny9aLUqzaY3PpMrU5KE_IWGvGgWXBpP21rDWc6uaElOicyZx6E-uC_jc3PD2BfsvvHA
+[2020-04-22 17:28:55] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 17:28:55] [DEBUG] «Î«Û≤Œ ˝------None
+[2020-04-22 17:28:55] [INFO] 127.0.0.1 - - [22/Apr/2020 17:28:55] "[37mGET /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:32:19] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 17:32:20] [INFO]  * Restarting with stat
+[2020-04-22 17:32:21] [WARNING]  * Debugger is active!
+[2020-04-22 17:32:21] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:32:21] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:33:14] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 17:33:14] [INFO]  * Restarting with stat
+[2020-04-22 17:33:15] [WARNING]  * Debugger is active!
+[2020-04-22 17:33:15] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:33:15] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:33:16] [INFO] 127.0.0.1 - - [22/Apr/2020 17:33:16] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:33:16] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getMyInfo/1
+[2020-04-22 17:33:16] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzUzNDA3NCwiZXhwIjoxNTg3NjIwNDc0fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.WHiVAvGgopJGpy1yFs_Ny9aLUqzaY3PpMrU5KE_IWGvGgWXBpP21rDWc6uaElOicyZx6E-uC_jc3PD2BfsvvHA
+[2020-04-22 17:33:16] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 17:33:16] [DEBUG] «Î«Û≤Œ ˝------{}
+[2020-04-22 17:33:16] [INFO] 127.0.0.1 - - [22/Apr/2020 17:33:16] "[37mGET /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:34:56] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 17:34:56] [INFO]  * Restarting with stat
+[2020-04-22 17:34:57] [WARNING]  * Debugger is active!
+[2020-04-22 17:34:57] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:34:57] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:35:00] [INFO] 127.0.0.1 - - [22/Apr/2020 17:35:00] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:35:00] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getMyInfo/1
+[2020-04-22 17:35:00] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzUzNDA3NCwiZXhwIjoxNTg3NjIwNDc0fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.WHiVAvGgopJGpy1yFs_Ny9aLUqzaY3PpMrU5KE_IWGvGgWXBpP21rDWc6uaElOicyZx6E-uC_jc3PD2BfsvvHA
+[2020-04-22 17:35:00] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 17:35:00] [INFO] 127.0.0.1 - - [22/Apr/2020 17:35:00] "[35m[1mGET /admin/getMyInfo/1 HTTP/1.1[0m" 500 -
+[2020-04-22 17:35:11] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 17:35:11] [INFO]  * Restarting with stat
+[2020-04-22 17:35:12] [WARNING]  * Debugger is active!
+[2020-04-22 17:35:12] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:35:12] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:35:14] [INFO] 127.0.0.1 - - [22/Apr/2020 17:35:14] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:35:14] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getMyInfo/1
+[2020-04-22 17:35:14] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzUzNDA3NCwiZXhwIjoxNTg3NjIwNDc0fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.WHiVAvGgopJGpy1yFs_Ny9aLUqzaY3PpMrU5KE_IWGvGgWXBpP21rDWc6uaElOicyZx6E-uC_jc3PD2BfsvvHA
+[2020-04-22 17:35:14] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 17:35:14] [DEBUG] «Î«Û∑Ω Ω------None
+[2020-04-22 17:35:14] [DEBUG] «Î«Û≤Œ ˝------{}
+[2020-04-22 17:35:14] [INFO] 127.0.0.1 - - [22/Apr/2020 17:35:14] "[37mGET /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:35:50] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 17:35:50] [INFO]  * Restarting with stat
+[2020-04-22 17:35:51] [WARNING]  * Debugger is active!
+[2020-04-22 17:35:51] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:35:51] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:35:52] [INFO] 127.0.0.1 - - [22/Apr/2020 17:35:52] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:35:52] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getMyInfo/1
+[2020-04-22 17:35:52] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzUzNDA3NCwiZXhwIjoxNTg3NjIwNDc0fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.WHiVAvGgopJGpy1yFs_Ny9aLUqzaY3PpMrU5KE_IWGvGgWXBpP21rDWc6uaElOicyZx6E-uC_jc3PD2BfsvvHA
+[2020-04-22 17:35:52] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 17:35:52] [DEBUG] «Î«Û∑Ω Ω------None
+[2020-04-22 17:35:52] [INFO] 127.0.0.1 - - [22/Apr/2020 17:35:52] "[37mGET /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 17:36:06] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 17:36:06] [INFO]  * Restarting with stat
+[2020-04-22 17:36:07] [WARNING]  * Debugger is active!
+[2020-04-22 17:36:07] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 17:36:07] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:09:22] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 18:09:22] [INFO]  * Restarting with stat
+[2020-04-22 18:09:23] [WARNING]  * Debugger is active!
+[2020-04-22 18:09:23] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:09:23] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:10:08] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 18:10:08] [INFO]  * Restarting with stat
+[2020-04-22 18:10:09] [WARNING]  * Debugger is active!
+[2020-04-22 18:10:09] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:10:09] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:11:11] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 18:11:11] [INFO]  * Restarting with stat
+[2020-04-22 18:11:12] [WARNING]  * Debugger is active!
+[2020-04-22 18:11:12] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:11:12] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:11:32] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 18:11:32] [INFO]  * Restarting with stat
+[2020-04-22 18:11:33] [WARNING]  * Debugger is active!
+[2020-04-22 18:11:33] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:11:33] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:11:36] [INFO] 127.0.0.1 - - [22/Apr/2020 18:11:36] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 18:11:36] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getMyInfo/1
+[2020-04-22 18:11:36] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzUzNDA3NCwiZXhwIjoxNTg3NjIwNDc0fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.WHiVAvGgopJGpy1yFs_Ny9aLUqzaY3PpMrU5KE_IWGvGgWXBpP21rDWc6uaElOicyZx6E-uC_jc3PD2BfsvvHA
+[2020-04-22 18:11:36] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:11:36] [DEBUG] «Î«Û≤Œ ˝------{}
+[2020-04-22 18:11:36] [INFO] 127.0.0.1 - - [22/Apr/2020 18:11:36] "[37mGET /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 18:12:27] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 18:12:27] [INFO]  * Restarting with stat
+[2020-04-22 18:12:28] [WARNING]  * Debugger is active!
+[2020-04-22 18:12:28] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:12:28] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:12:32] [INFO] 127.0.0.1 - - [22/Apr/2020 18:12:32] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 18:12:32] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getMyInfo/1
+[2020-04-22 18:12:32] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzUzNDA3NCwiZXhwIjoxNTg3NjIwNDc0fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.WHiVAvGgopJGpy1yFs_Ny9aLUqzaY3PpMrU5KE_IWGvGgWXBpP21rDWc6uaElOicyZx6E-uC_jc3PD2BfsvvHA
+[2020-04-22 18:12:32] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:12:32] [DEBUG] «Î«Û≤Œ ˝------{}
+[2020-04-22 18:12:32] [DEBUG] «Î«Û∫ƒ ±------0.002991199493408203s
+[2020-04-22 18:12:32] [INFO] 127.0.0.1 - - [22/Apr/2020 18:12:32] "[37mGET /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 18:12:44] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 18:12:44] [INFO]  * Restarting with stat
+[2020-04-22 18:12:45] [WARNING]  * Debugger is active!
+[2020-04-22 18:12:45] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:12:45] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:12:48] [INFO] 127.0.0.1 - - [22/Apr/2020 18:12:48] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 18:12:48] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getMyInfo/1
+[2020-04-22 18:12:48] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzUzNDA3NCwiZXhwIjoxNTg3NjIwNDc0fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.WHiVAvGgopJGpy1yFs_Ny9aLUqzaY3PpMrU5KE_IWGvGgWXBpP21rDWc6uaElOicyZx6E-uC_jc3PD2BfsvvHA
+[2020-04-22 18:12:48] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:12:48] [DEBUG] «Î«Û≤Œ ˝------{}
+[2020-04-22 18:12:48] [DEBUG] «Î«Û∫ƒ ±------0.0019948482513427734 s
+[2020-04-22 18:12:48] [INFO] 127.0.0.1 - - [22/Apr/2020 18:12:48] "[37mGET /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 18:13:04] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 18:13:04] [INFO]  * Restarting with stat
+[2020-04-22 18:13:05] [WARNING]  * Debugger is active!
+[2020-04-22 18:13:05] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:13:05] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:13:45] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 18:13:45] [INFO]  * Restarting with stat
+[2020-04-22 18:13:46] [WARNING]  * Debugger is active!
+[2020-04-22 18:13:46] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:13:46] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:13:47] [INFO] 127.0.0.1 - - [22/Apr/2020 18:13:47] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 18:13:47] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getMyInfo/1
+[2020-04-22 18:13:47] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzUzNDA3NCwiZXhwIjoxNTg3NjIwNDc0fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.WHiVAvGgopJGpy1yFs_Ny9aLUqzaY3PpMrU5KE_IWGvGgWXBpP21rDWc6uaElOicyZx6E-uC_jc3PD2BfsvvHA
+[2020-04-22 18:13:47] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:13:47] [DEBUG] «Î«Û≤Œ ˝------{}
+[2020-04-22 18:13:47] [DEBUG] «Î«Û∫ƒ ±------0.01695561408996582 √Î
+[2020-04-22 18:13:47] [DEBUG] ∑µªÿµƒΩ·ππ------
+[2020-04-22 18:13:47] [INFO] 127.0.0.1 - - [22/Apr/2020 18:13:47] "[37mGET /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 18:14:14] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 18:14:14] [INFO]  * Restarting with stat
+[2020-04-22 18:14:15] [WARNING]  * Debugger is active!
+[2020-04-22 18:14:15] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:14:15] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:14:16] [INFO] 127.0.0.1 - - [22/Apr/2020 18:14:16] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 18:14:16] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getMyInfo/1
+[2020-04-22 18:14:16] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzUzNDA3NCwiZXhwIjoxNTg3NjIwNDc0fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.WHiVAvGgopJGpy1yFs_Ny9aLUqzaY3PpMrU5KE_IWGvGgWXBpP21rDWc6uaElOicyZx6E-uC_jc3PD2BfsvvHA
+[2020-04-22 18:14:16] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:14:16] [DEBUG] «Î«Û≤Œ ˝------{}
+[2020-04-22 18:14:16] [DEBUG] «Î«Û∫ƒ ±------0.001995086669921875 √Î
+[2020-04-22 18:14:16] [DEBUG] ∑µªÿµƒΩ·ππ------
+[2020-04-22 18:14:16] [INFO] 127.0.0.1 - - [22/Apr/2020 18:14:16] "[37mGET /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 18:14:29] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 18:14:29] [INFO]  * Restarting with stat
+[2020-04-22 18:14:30] [WARNING]  * Debugger is active!
+[2020-04-22 18:14:30] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:14:30] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:14:32] [INFO] 127.0.0.1 - - [22/Apr/2020 18:14:32] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 18:14:32] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getMyInfo/1
+[2020-04-22 18:14:32] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzUzNDA3NCwiZXhwIjoxNTg3NjIwNDc0fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.WHiVAvGgopJGpy1yFs_Ny9aLUqzaY3PpMrU5KE_IWGvGgWXBpP21rDWc6uaElOicyZx6E-uC_jc3PD2BfsvvHA
+[2020-04-22 18:14:32] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:14:32] [DEBUG] «Î«Û≤Œ ˝------{}
+[2020-04-22 18:14:32] [DEBUG] «Î«Û∫ƒ ±------0.001994609832763672 √Î
+[2020-04-22 18:14:32] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': 'ªÒ»°Œ“µƒ–≈œ¢≥…π¶', 'flag': True, 'data': {'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'avatar': '', 'createTime': '2020-04-21 14:45:10'}}
+[2020-04-22 18:14:32] [INFO] 127.0.0.1 - - [22/Apr/2020 18:14:32] "[37mGET /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 18:14:49] [INFO] 127.0.0.1 - - [22/Apr/2020 18:14:49] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 18:14:49] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getMyInfo/1
+[2020-04-22 18:14:49] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzUzNDA3NCwiZXhwIjoxNTg3NjIwNDc0fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.WHiVAvGgopJGpy1yFs_Ny9aLUqzaY3PpMrU5KE_IWGvGgWXBpP21rDWc6uaElOicyZx6E-uC_jc3PD2BfsvvHA
+[2020-04-22 18:14:49] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:14:49] [DEBUG] «Î«Û≤Œ ˝------{}
+[2020-04-22 18:14:49] [DEBUG] «Î«Û∫ƒ ±------0.001001119613647461 √Î
+[2020-04-22 18:14:49] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': 'ªÒ»°Œ“µƒ–≈œ¢≥…π¶', 'flag': True, 'data': {'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'avatar': '', 'createTime': '2020-04-21 14:45:10'}}
+[2020-04-22 18:14:49] [INFO] 127.0.0.1 - - [22/Apr/2020 18:14:49] "[37mGET /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 18:17:06] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 18:17:06] [INFO]  * Restarting with stat
+[2020-04-22 18:17:07] [WARNING]  * Debugger is active!
+[2020-04-22 18:17:07] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:17:07] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:17:10] [INFO] 127.0.0.1 - - [22/Apr/2020 18:17:10] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 18:17:10] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getMyInfo/1
+[2020-04-22 18:17:10] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzUzNDA3NCwiZXhwIjoxNTg3NjIwNDc0fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.WHiVAvGgopJGpy1yFs_Ny9aLUqzaY3PpMrU5KE_IWGvGgWXBpP21rDWc6uaElOicyZx6E-uC_jc3PD2BfsvvHA
+[2020-04-22 18:17:10] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}
+[2020-04-22 18:17:10] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:17:10] [DEBUG] «Î«Û≤Œ ˝------{}
+[2020-04-22 18:17:10] [DEBUG] «Î«Û∫ƒ ±------0.010942935943603516 √Î
+[2020-04-22 18:17:10] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': 'ªÒ»°Œ“µƒ–≈œ¢≥…π¶', 'flag': True, 'data': {'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'avatar': '', 'createTime': '2020-04-21 14:45:10'}}
+[2020-04-22 18:17:10] [INFO] 127.0.0.1 - - [22/Apr/2020 18:17:10] "[37mGET /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 18:18:53] [INFO] 127.0.0.1 - - [22/Apr/2020 18:18:53] "[37mOPTIONS /admin/regAdminUser HTTP/1.1[0m" 200 -
+[2020-04-22 18:18:53] [DEBUG] registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+[2020-04-22 18:18:53] [DEBUG] registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+[2020-04-22 18:18:54] [INFO] 127.0.0.1 - - [22/Apr/2020 18:18:54] "[37mPOST /admin/regAdminUser HTTP/1.1[0m" 200 -
+[2020-04-22 18:18:59] [INFO] 127.0.0.1 - - [22/Apr/2020 18:18:59] "[37mOPTIONS /admin/regAdminUser HTTP/1.1[0m" 200 -
+[2020-04-22 18:19:01] [INFO] 127.0.0.1 - - [22/Apr/2020 18:19:01] "[37mPOST /admin/regAdminUser HTTP/1.1[0m" 200 -
+[2020-04-22 18:19:39] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 18:19:39] [INFO]  * Restarting with stat
+[2020-04-22 18:19:40] [WARNING]  * Debugger is active!
+[2020-04-22 18:19:40] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:19:40] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:19:40] [INFO] 127.0.0.1 - - [22/Apr/2020 18:19:40] "[37mOPTIONS /admin/regAdminUser HTTP/1.1[0m" 200 -
+[2020-04-22 18:19:40] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/regAdminUser
+[2020-04-22 18:19:40] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzUzNDA3NCwiZXhwIjoxNTg3NjIwNDc0fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.WHiVAvGgopJGpy1yFs_Ny9aLUqzaY3PpMrU5KE_IWGvGgWXBpP21rDWc6uaElOicyZx6E-uC_jc3PD2BfsvvHA
+[2020-04-22 18:19:40] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}
+[2020-04-22 18:19:40] [DEBUG] «Î«Û∑Ω Ω------POST
+[2020-04-22 18:19:40] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'sen22', 'name': 'sen2', 'passWord': 'sen2', 'sex': '0', 'email': 'sen2', 'phone': 'sen2'}
+[2020-04-22 18:19:40] [DEBUG] registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+[2020-04-22 18:19:40] [DEBUG] registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+[2020-04-22 18:19:42] [DEBUG] «Î«Û∫ƒ ±------1.4969942569732666 √Î
+[2020-04-22 18:19:42] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': 'ÃÌº””√ªß ß∞‹,∏√”√ªß“—¥Ê‘⁄', 'flag': False, 'data': {}}
+[2020-04-22 18:19:42] [INFO] 127.0.0.1 - - [22/Apr/2020 18:19:42] "[37mPOST /admin/regAdminUser HTTP/1.1[0m" 200 -
+[2020-04-22 18:19:47] [INFO] 127.0.0.1 - - [22/Apr/2020 18:19:47] "[37mOPTIONS /admin/regAdminUser HTTP/1.1[0m" 200 -
+[2020-04-22 18:19:47] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/regAdminUser
+[2020-04-22 18:19:47] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzUzNDA3NCwiZXhwIjoxNTg3NjIwNDc0fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.WHiVAvGgopJGpy1yFs_Ny9aLUqzaY3PpMrU5KE_IWGvGgWXBpP21rDWc6uaElOicyZx6E-uC_jc3PD2BfsvvHA
+[2020-04-22 18:19:47] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}
+[2020-04-22 18:19:47] [DEBUG] «Î«Û∑Ω Ω------POST
+[2020-04-22 18:19:47] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'sen223', 'name': 'sen23', 'passWord': 'sen23', 'sex': '0', 'email': 'sen23', 'phone': 'sen23'}
+[2020-04-22 18:19:48] [DEBUG] «Î«Û∫ƒ ±------1.4939749240875244 √Î
+[2020-04-22 18:19:48] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': '◊¢≤·”√ªß≥…π¶,”√ªß√˚:sen223', 'flag': True, 'data': {'id': 12, 'name': 'sen23', 'email': 'sen23', 'userName': 'sen223', 'sex': 0, 'phone': 'sen23', 'createTime': '2020-04-22 18:19:49'}}
+[2020-04-22 18:19:48] [INFO] 127.0.0.1 - - [22/Apr/2020 18:19:48] "[37mPOST /admin/regAdminUser HTTP/1.1[0m" 200 -
+[2020-04-22 18:21:46] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 18:21:46] [INFO]  * Restarting with stat
+[2020-04-22 18:21:47] [WARNING]  * Debugger is active!
+[2020-04-22 18:21:47] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:21:47] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:21:48] [INFO] 127.0.0.1 - - [22/Apr/2020 18:21:48] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:21:48] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:21:48] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzUzNDA3NCwiZXhwIjoxNTg3NjIwNDc0fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.WHiVAvGgopJGpy1yFs_Ny9aLUqzaY3PpMrU5KE_IWGvGgWXBpP21rDWc6uaElOicyZx6E-uC_jc3PD2BfsvvHA
+[2020-04-22 18:21:48] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}
+[2020-04-22 18:21:48] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:21:48] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'sen', 'passWord': 'sen'}
+[2020-04-22 18:21:48] [DEBUG] registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+[2020-04-22 18:21:48] [DEBUG] registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+[2020-04-22 18:21:48] [DEBUG] «Î«Û∫ƒ ±------0.6302857398986816 √Î
+[2020-04-22 18:21:48] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': 'µ«¬º≥…π¶', 'flag': True, 'data': {'userInfo': {'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}, 'token': 'eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzU1MDkwOCwiZXhwIjoxNTg3NjM3MzA4fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.ibH8KztPurwj_bp4n6FBS1JB2aNBZfRR4T-fbsLF3U6z9SavWX1ZU2cOT17HUFySYH4S2pSNRpnVVKSU4l38GQ'}}
+[2020-04-22 18:21:48] [INFO] 127.0.0.1 - - [22/Apr/2020 18:21:48] "[37mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:22:43] [INFO] 127.0.0.1 - - [22/Apr/2020 18:22:43] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 18:22:43] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getMyInfo/1
+[2020-04-22 18:22:43] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzU1MDkwOCwiZXhwIjoxNTg3NjM3MzA4fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.ibH8KztPurwj_bp4n6FBS1JB2aNBZfRR4T-fbsLF3U6z9SavWX1ZU2cOT17HUFySYH4S2pSNRpnVVKSU4l38GQ
+[2020-04-22 18:22:43] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}
+[2020-04-22 18:22:43] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:22:43] [DEBUG] «Î«Û≤Œ ˝------{}
+[2020-04-22 18:22:43] [DEBUG] «Î«Û∫ƒ ±------0.0019948482513427734 √Î
+[2020-04-22 18:22:43] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': 'ªÒ»°Œ“µƒ–≈œ¢≥…π¶', 'flag': True, 'data': {'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'avatar': '', 'createTime': '2020-04-21 14:45:10'}}
+[2020-04-22 18:22:43] [INFO] 127.0.0.1 - - [22/Apr/2020 18:22:43] "[37mGET /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 18:22:44] [INFO] 127.0.0.1 - - [22/Apr/2020 18:22:44] "[37mOPTIONS /admin/adminUserLogs?currentPage=1&pageSize=10 HTTP/1.1[0m" 200 -
+[2020-04-22 18:22:44] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/adminUserLogs
+[2020-04-22 18:22:44] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzU1MDkwOCwiZXhwIjoxNTg3NjM3MzA4fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.ibH8KztPurwj_bp4n6FBS1JB2aNBZfRR4T-fbsLF3U6z9SavWX1ZU2cOT17HUFySYH4S2pSNRpnVVKSU4l38GQ
+[2020-04-22 18:22:44] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}
+[2020-04-22 18:22:44] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:22:44] [DEBUG] «Î«Û≤Œ ˝------{'currentPage': '1', 'pageSize': '10'}
+[2020-04-22 18:22:44] [DEBUG] «Î«Û∫ƒ ±------0.00598454475402832 √Î
+[2020-04-22 18:22:44] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': 'ªÒ»°»’÷æ–≈œ¢≥…π¶', 'flag': True, 'data': {'logsList': [{'id': 82, 'operateUserName': 'sen', 'operateName': '¿Ó…≠…≠', 'operateMsg': 'µ«¬º’À∫≈sen', 'operateTime': '2020-04-22 18:21:49'}, {'id': 81, 'operateUserName': 'sen', 'operateName': '¿Ó…≠…≠', 'operateMsg': 'µ«¬º’À∫≈sen', 'operateTime': '2020-04-22 14:52:44'}, {'id': 80, 'operateUserName': 'sen', 'operateName': '¿Ó…≠…≠', 'operateMsg': 'µ«¬º’À∫≈sen', 'operateTime': '2020-04-22 14:52:26'}, {'id': 79, 'operateUserName': 'sen', 'operateName': '¿Ó…≠…≠', 'operateMsg': 'µ«¬º’À∫≈sen', 'operateTime': '2020-04-22 13:41:14'}, {'id': 78, 'operateUserName': 'sen', 'operateName': '¿Ó…≠…≠', 'operateMsg': 'µ«¬º’À∫≈sen', 'operateTime': '2020-04-22 13:39:27'}, {'id': 77, 'operateUserName': 'sen', 'operateName': '¿Ó…≠…≠', 'operateMsg': 'µ«¬º’À∫≈sen', 'operateTime': '2020-04-22 11:54:35'}, {'id': 76, 'operateUserName': 'sen', 'operateName': '¿Ó…≠…≠', 'operateMsg': 'µ«¬º’À∫≈sen', 'operateTime': '2020-04-22 11:50:01'}, {'id': 75, 'operateUserName': 'sen', 'operateName': '¿Ó…≠…≠', 'operateMsg': 'µ«¬º’À∫≈sen', 'operateTime': '2020-04-22 10:45:38'}, {'id': 74, 'operateUserName': 'sen', 'operateName': '¿Ó…≠…≠', 'operateMsg': 'µ«¬º’À∫≈sen', 'operateTime': '2020-04-22 10:40:05'}, {'id': 73, 'operateUserName': 'sen', 'operateName': '¿Ó…≠…≠', 'operateMsg': 'µ«¬º’À∫≈sen', 'operateTime': '2020-04-22 10:36:24'}], 'total': 82, 'currentPage': 1, 'pageSize': 10, 'pages': 9}}
+[2020-04-22 18:22:44] [INFO] 127.0.0.1 - - [22/Apr/2020 18:22:44] "[37mGET /admin/adminUserLogs?currentPage=1&pageSize=10 HTTP/1.1[0m" 200 -
+[2020-04-22 18:22:44] [INFO] 127.0.0.1 - - [22/Apr/2020 18:22:44] "[37mOPTIONS /admin/getadminUserList?currentPage=1&pageSize=10 HTTP/1.1[0m" 200 -
+[2020-04-22 18:22:44] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/getadminUserList
+[2020-04-22 18:22:44] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzU1MDkwOCwiZXhwIjoxNTg3NjM3MzA4fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.ibH8KztPurwj_bp4n6FBS1JB2aNBZfRR4T-fbsLF3U6z9SavWX1ZU2cOT17HUFySYH4S2pSNRpnVVKSU4l38GQ
+[2020-04-22 18:22:44] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}
+[2020-04-22 18:22:44] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:22:44] [DEBUG] «Î«Û≤Œ ˝------{'currentPage': '1', 'pageSize': '10'}
+[2020-04-22 18:22:45] [DEBUG] «Î«Û∫ƒ ±------0.0019943714141845703 √Î
+[2020-04-22 18:22:45] [DEBUG] ∑µªÿµƒΩ·ππ------<Response 1905 bytes [200 OK]>
+[2020-04-22 18:22:45] [INFO] 127.0.0.1 - - [22/Apr/2020 18:22:45] "[37mGET /admin/getadminUserList?currentPage=1&pageSize=10 HTTP/1.1[0m" 200 -
+[2020-04-22 18:23:06] [INFO] 127.0.0.1 - - [22/Apr/2020 18:23:06] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:23:06] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:23:06] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzU1MDkwOCwiZXhwIjoxNTg3NjM3MzA4fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.ibH8KztPurwj_bp4n6FBS1JB2aNBZfRR4T-fbsLF3U6z9SavWX1ZU2cOT17HUFySYH4S2pSNRpnVVKSU4l38GQ
+[2020-04-22 18:23:06] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}
+[2020-04-22 18:23:06] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:23:06] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'sen', 'passWord': 'sen'}
+[2020-04-22 18:23:06] [DEBUG] «Î«Û∫ƒ ±------0.6293160915374756 √Î
+[2020-04-22 18:23:06] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': 'µ«¬º≥…π¶', 'flag': True, 'data': {'userInfo': {'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}, 'token': 'eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzU1MDk4NiwiZXhwIjoxNTg3NjM3Mzg2fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.5xtPjmv287hQ4KC7k_fSPBVXagTVAQ2RmcNQj7Dr9jBanlaQwzLYLGgK_qvKaZUW56wuiMtW7-TFR8ppWQ5cFg'}}
+[2020-04-22 18:23:06] [INFO] 127.0.0.1 - - [22/Apr/2020 18:23:06] "[37mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:23:51] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 18:23:51] [INFO]  * Restarting with stat
+[2020-04-22 18:23:52] [WARNING]  * Debugger is active!
+[2020-04-22 18:23:52] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:23:52] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:23:54] [INFO] 127.0.0.1 - - [22/Apr/2020 18:23:54] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:23:54] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:23:54] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzU1MDk4NiwiZXhwIjoxNTg3NjM3Mzg2fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.5xtPjmv287hQ4KC7k_fSPBVXagTVAQ2RmcNQj7Dr9jBanlaQwzLYLGgK_qvKaZUW56wuiMtW7-TFR8ppWQ5cFg
+[2020-04-22 18:23:54] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}
+[2020-04-22 18:23:54] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:23:54] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'sen', 'passWord': 'sen'}
+[2020-04-22 18:23:54] [DEBUG] registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+[2020-04-22 18:23:54] [DEBUG] registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+[2020-04-22 18:23:54] [DEBUG] «Î«Û∫ƒ ±------0.6333396434783936 √Î
+[2020-04-22 18:23:54] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': 'µ«¬º≥…π¶', 'flag': True, 'data': {'userInfo': {'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}}}
+[2020-04-22 18:23:54] [INFO] 127.0.0.1 - - [22/Apr/2020 18:23:54] "[37mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:24:21] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 18:24:21] [INFO]  * Restarting with stat
+[2020-04-22 18:24:22] [WARNING]  * Debugger is active!
+[2020-04-22 18:24:22] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:24:22] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:24:28] [INFO] 127.0.0.1 - - [22/Apr/2020 18:24:28] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:24:28] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:24:28] [INFO] 127.0.0.1 - - [22/Apr/2020 18:24:28] "[35m[1mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 500 -
+[2020-04-22 18:25:01] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 18:25:01] [INFO]  * Restarting with stat
+[2020-04-22 18:25:02] [WARNING]  * Debugger is active!
+[2020-04-22 18:25:02] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:25:02] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:25:03] [INFO] 127.0.0.1 - - [22/Apr/2020 18:25:03] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:25:03] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:25:03] [INFO] 127.0.0.1 - - [22/Apr/2020 18:25:03] "[35m[1mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 500 -
+[2020-04-22 18:25:13] [INFO] 127.0.0.1 - - [22/Apr/2020 18:25:13] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:25:13] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:25:13] [INFO] 127.0.0.1 - - [22/Apr/2020 18:25:13] "[35m[1mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 500 -
+[2020-04-22 18:25:17] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:25:17] [INFO] 127.0.0.1 - - [22/Apr/2020 18:25:17] "[35m[1mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 500 -
+[2020-04-22 18:25:54] [INFO] 127.0.0.1 - - [22/Apr/2020 18:25:54] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:25:54] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:25:54] [INFO] 127.0.0.1 - - [22/Apr/2020 18:25:54] "[35m[1mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 500 -
+[2020-04-22 18:26:06] [INFO] 127.0.0.1 - - [22/Apr/2020 18:26:06] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:26:06] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:26:06] [INFO] 127.0.0.1 - - [22/Apr/2020 18:26:06] "[35m[1mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 500 -
+[2020-04-22 18:27:00] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\utils\\logUtil.py', reloading
+[2020-04-22 18:27:00] [INFO]  * Restarting with stat
+[2020-04-22 18:27:01] [WARNING]  * Debugger is active!
+[2020-04-22 18:27:01] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:27:01] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:27:02] [INFO] 127.0.0.1 - - [22/Apr/2020 18:27:02] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:27:02] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:27:02] [DEBUG] ¥Ú”°request÷–µƒtoken------√ª”–token
+[2020-04-22 18:27:02] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:27:02] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'sen', 'passWord': 'sen'}
+[2020-04-22 18:27:02] [DEBUG] registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+[2020-04-22 18:27:02] [DEBUG] registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+[2020-04-22 18:27:02] [DEBUG] «Î«Û∫ƒ ±------0.6243579387664795 √Î
+[2020-04-22 18:27:02] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': 'µ«¬º≥…π¶', 'flag': True, 'data': {'userInfo': {'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}}}
+[2020-04-22 18:27:02] [INFO] 127.0.0.1 - - [22/Apr/2020 18:27:02] "[37mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:27:46] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 18:27:46] [INFO]  * Restarting with stat
+[2020-04-22 18:27:47] [WARNING]  * Debugger is active!
+[2020-04-22 18:27:47] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:27:47] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:27:49] [INFO] 127.0.0.1 - - [22/Apr/2020 18:27:49] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:27:49] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:27:49] [INFO] 127.0.0.1 - - [22/Apr/2020 18:27:49] "[35m[1mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 500 -
+[2020-04-22 18:28:35] [INFO] 127.0.0.1 - - [22/Apr/2020 18:28:35] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:28:35] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:28:35] [DEBUG] ¥Ú”°request÷–µƒtoken------√ª”–token
+[2020-04-22 18:28:35] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:28:35] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'sen', 'passWord': 'sen'}
+[2020-04-22 18:28:35] [DEBUG] registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+[2020-04-22 18:28:35] [DEBUG] registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+[2020-04-22 18:28:36] [DEBUG] «Î«Û∫ƒ ±------0.6213347911834717 √Î
+[2020-04-22 18:28:36] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': 'µ«¬º≥…π¶', 'flag': True, 'data': {'userInfo': {'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}, 'token': 'eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzU1MTMxNiwiZXhwIjoxNTg3NjM3NzE2fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.GHM6A-lFU8cfLxZxsrBBAzQn918fuLrOZwfu_KBvvLEUAZJW_bbPEsbm3zo0yYKEXKUitIQpQ3ENfXWUjWOvyg'}}
+[2020-04-22 18:28:36] [INFO] 127.0.0.1 - - [22/Apr/2020 18:28:36] "[37mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:29:26] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 18:29:26] [INFO]  * Restarting with stat
+[2020-04-22 18:29:27] [WARNING]  * Debugger is active!
+[2020-04-22 18:29:27] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:29:27] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:29:29] [INFO] 127.0.0.1 - - [22/Apr/2020 18:29:29] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:29:29] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:29:29] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzU1MTMxNiwiZXhwIjoxNTg3NjM3NzE2fQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.GHM6A-lFU8cfLxZxsrBBAzQn918fuLrOZwfu_KBvvLEUAZJW_bbPEsbm3zo0yYKEXKUitIQpQ3ENfXWUjWOvyg
+[2020-04-22 18:29:29] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}
+[2020-04-22 18:29:29] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:29:29] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'sen', 'passWord': 'sen'}
+[2020-04-22 18:29:29] [DEBUG] «Î«Û∫ƒ ±------0.003961801528930664 √Î
+[2020-04-22 18:29:29] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': 'µ«¬º≥…π¶', 'flag': True, 'data': {'userInfo': {'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}}}
+[2020-04-22 18:29:29] [INFO] 127.0.0.1 - - [22/Apr/2020 18:29:29] "[37mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:30:16] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 18:30:16] [INFO]  * Restarting with stat
+[2020-04-22 18:30:17] [WARNING]  * Debugger is active!
+[2020-04-22 18:30:17] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:30:17] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:32:46] [INFO] 127.0.0.1 - - [22/Apr/2020 18:32:46] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:32:46] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:32:46] [INFO] 127.0.0.1 - - [22/Apr/2020 18:32:46] "[35m[1mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 500 -
+[2020-04-22 18:34:02] [INFO] 127.0.0.1 - - [22/Apr/2020 18:34:02] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:34:02] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:34:02] [INFO] 127.0.0.1 - - [22/Apr/2020 18:34:02] "[35m[1mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 500 -
+[2020-04-22 18:34:03] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:34:03] [INFO] 127.0.0.1 - - [22/Apr/2020 18:34:03] "[35m[1mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 500 -
+[2020-04-22 18:34:04] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:34:04] [INFO] 127.0.0.1 - - [22/Apr/2020 18:34:04] "[35m[1mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 500 -
+[2020-04-22 18:34:04] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:34:04] [INFO] 127.0.0.1 - - [22/Apr/2020 18:34:04] "[35m[1mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 500 -
+[2020-04-22 18:34:04] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:34:04] [INFO] 127.0.0.1 - - [22/Apr/2020 18:34:04] "[35m[1mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 500 -
+[2020-04-22 18:34:12] [INFO] 127.0.0.1 - - [22/Apr/2020 18:34:12] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:34:12] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:34:12] [INFO] 127.0.0.1 - - [22/Apr/2020 18:34:12] "[35m[1mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 500 -
+[2020-04-22 18:34:20] [INFO] 127.0.0.1 - - [22/Apr/2020 18:34:20] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:34:20] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:34:20] [DEBUG] ¥Ú”°request÷–µƒtoken------√ª”–token
+[2020-04-22 18:34:20] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:34:20] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'sen', 'passWord': 'sen'}
+[2020-04-22 18:34:20] [DEBUG] registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+[2020-04-22 18:34:20] [DEBUG] registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+[2020-04-22 18:34:20] [DEBUG] «Î«Û∫ƒ ±------0.6382918357849121 √Î
+[2020-04-22 18:34:20] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': 'µ«¬º≥…π¶', 'flag': True, 'data': {'userInfo': {'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}, 'token': 'eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzU1MTY2MCwiZXhwIjoxNTg3NjM4MDYwfQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.OAaCm7XxDZ6Rlw9UMOlou9jbWNKS4zGliJfA-XCnc9UmU47iAqYfEUWUSQiyAP0YPpQayozYanblsib4BvZNHg'}}
+[2020-04-22 18:34:20] [INFO] 127.0.0.1 - - [22/Apr/2020 18:34:20] "[37mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:34:46] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 18:34:46] [INFO]  * Restarting with stat
+[2020-04-22 18:34:47] [WARNING]  * Debugger is active!
+[2020-04-22 18:34:47] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:34:47] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 18:34:50] [INFO] 127.0.0.1 - - [22/Apr/2020 18:34:50] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:34:50] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:34:50] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzU1MTY2MCwiZXhwIjoxNTg3NjM4MDYwfQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.OAaCm7XxDZ6Rlw9UMOlou9jbWNKS4zGliJfA-XCnc9UmU47iAqYfEUWUSQiyAP0YPpQayozYanblsib4BvZNHg
+[2020-04-22 18:34:50] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}
+[2020-04-22 18:34:50] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:34:50] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'sen', 'passWord': 'sen'}
+[2020-04-22 18:34:50] [DEBUG] registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+[2020-04-22 18:34:50] [DEBUG] registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+[2020-04-22 18:34:51] [DEBUG] «Î«Û∫ƒ ±------0.6303372383117676 √Î
+[2020-04-22 18:34:51] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': 'µ«¬º≥…π¶', 'flag': True, 'data': {'userInfo': {'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}}}
+[2020-04-22 18:34:51] [INFO] 127.0.0.1 - - [22/Apr/2020 18:34:51] "[37mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:35:38] [INFO] 127.0.0.1 - - [22/Apr/2020 18:35:38] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:35:38] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:35:38] [INFO] 127.0.0.1 - - [22/Apr/2020 18:35:38] "[35m[1mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 500 -
+[2020-04-22 18:35:56] [INFO] 127.0.0.1 - - [22/Apr/2020 18:35:56] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:35:56] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:35:56] [DEBUG] ¥Ú”°request÷–µƒtoken------√ª”–token
+[2020-04-22 18:35:56] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:35:56] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'sen', 'passWord': 'sen'}
+[2020-04-22 18:35:56] [DEBUG] «Î«Û∫ƒ ±------0.6223347187042236 √Î
+[2020-04-22 18:35:56] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': 'µ«¬º≥…π¶', 'flag': True, 'data': {'userInfo': {'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}}}
+[2020-04-22 18:35:56] [INFO] 127.0.0.1 - - [22/Apr/2020 18:35:56] "[37mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:36:32] [INFO] 127.0.0.1 - - [22/Apr/2020 18:36:32] "[37mOPTIONS /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 18:36:32] [INFO] 127.0.0.1 - - [22/Apr/2020 18:36:32] "[37mGET /admin/getMyInfo/1 HTTP/1.1[0m" 200 -
+[2020-04-22 18:36:37] [INFO] 127.0.0.1 - - [22/Apr/2020 18:36:37] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:36:37] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:36:37] [DEBUG] ¥Ú”°request÷–µƒtoken------√ª”–token
+[2020-04-22 18:36:37] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:36:37] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'sen', 'passWord': 'sen'}
+[2020-04-22 18:36:38] [DEBUG] «Î«Û∫ƒ ±------0.6223347187042236 √Î
+[2020-04-22 18:36:38] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': 'µ«¬º≥…π¶', 'flag': True, 'data': {'userInfo': {'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}}}
+[2020-04-22 18:36:38] [INFO] 127.0.0.1 - - [22/Apr/2020 18:36:38] "[37mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:36:43] [INFO] 127.0.0.1 - - [22/Apr/2020 18:36:43] "[37mOPTIONS /admin/apiStatus HTTP/1.1[0m" 200 -
+[2020-04-22 18:36:43] [INFO] 127.0.0.1 - - [22/Apr/2020 18:36:43] "[37mGET /admin/apiStatus HTTP/1.1[0m" 200 -
+[2020-04-22 18:36:45] [INFO] 127.0.0.1 - - [22/Apr/2020 18:36:45] "[37mOPTIONS /admin/getadminUserList?currentPage=1&pageSize=10 HTTP/1.1[0m" 200 -
+[2020-04-22 18:36:45] [INFO] 127.0.0.1 - - [22/Apr/2020 18:36:45] "[37mGET /admin/getadminUserList?currentPage=1&pageSize=10 HTTP/1.1[0m" 200 -
+[2020-04-22 18:36:46] [INFO] 127.0.0.1 - - [22/Apr/2020 18:36:46] "[37mOPTIONS /admin/adminUserLogs?currentPage=1&pageSize=10 HTTP/1.1[0m" 200 -
+[2020-04-22 18:36:46] [INFO] 127.0.0.1 - - [22/Apr/2020 18:36:46] "[37mGET /admin/adminUserLogs?currentPage=1&pageSize=10 HTTP/1.1[0m" 200 -
+[2020-04-22 18:36:49] [INFO] 127.0.0.1 - - [22/Apr/2020 18:36:49] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:36:49] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-22 18:36:49] [DEBUG] ¥Ú”°request÷–µƒtoken------√ª”–token
+[2020-04-22 18:36:49] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-22 18:36:49] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'sen', 'passWord': 'sen'}
+[2020-04-22 18:36:49] [DEBUG] «Î«Û∫ƒ ±------0.6263236999511719 √Î
+[2020-04-22 18:36:49] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': 'µ«¬º≥…π¶', 'flag': True, 'data': {'userInfo': {'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}}}
+[2020-04-22 18:36:49] [INFO] 127.0.0.1 - - [22/Apr/2020 18:36:49] "[37mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-22 18:37:01] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-22 18:37:01] [INFO]  * Restarting with stat
+[2020-04-22 18:37:02] [WARNING]  * Debugger is active!
+[2020-04-22 18:37:02] [INFO]  * Debugger PIN: 339-057-518
+[2020-04-22 18:37:02] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 09:35:52] [INFO] 127.0.0.1 - - [23/Apr/2020 09:35:52] "[37mGET /apidocs/ HTTP/1.1[0m" 200 -
+[2020-04-23 09:35:52] [INFO] 127.0.0.1 - - [23/Apr/2020 09:35:52] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+[2020-04-23 09:35:52] [INFO] 127.0.0.1 - - [23/Apr/2020 09:35:52] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+[2020-04-23 09:35:52] [INFO] 127.0.0.1 - - [23/Apr/2020 09:35:52] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+[2020-04-23 09:35:52] [INFO] 127.0.0.1 - - [23/Apr/2020 09:35:52] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+[2020-04-23 09:35:52] [INFO] 127.0.0.1 - - [23/Apr/2020 09:35:52] "[37mGET /apispec_1.json HTTP/1.1[0m" 200 -
+[2020-04-23 09:36:41] [INFO] 127.0.0.1 - - [23/Apr/2020 09:36:41] "[37mOPTIONS /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-23 09:36:41] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/login
+[2020-04-23 09:36:41] [DEBUG] ¥Ú”°request÷–µƒtoken------√ª”–token
+[2020-04-23 09:36:41] [DEBUG] «Î«Û∑Ω Ω------GET
+[2020-04-23 09:36:41] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'sen', 'passWord': 'sen'}
+[2020-04-23 09:36:41] [DEBUG] registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+[2020-04-23 09:36:41] [DEBUG] registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+[2020-04-23 09:36:41] [DEBUG] «Î«Û∫ƒ ±------0.6642510890960693 √Î
+[2020-04-23 09:36:41] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': 'µ«¬º≥…π¶', 'flag': True, 'data': {'userInfo': {'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}, 'token': 'eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzYwNTgwMSwiZXhwIjoxNTg3NjkyMjAxfQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.O_7f8-4US7eF4wIy-chYWCsUYR7EJTqze0bDj3v3jGMJoIiuro3wlDp--f-3J45Dn7F9kM6U0I0w1VBrhyof4g'}}
+[2020-04-23 09:36:41] [INFO] 127.0.0.1 - - [23/Apr/2020 09:36:41] "[37mGET /admin/login?userName=sen&passWord=sen HTTP/1.1[0m" 200 -
+[2020-04-23 09:43:55] [INFO] 127.0.0.1 - - [23/Apr/2020 09:43:55] "[37mOPTIONS /admin/regAdminUser HTTP/1.1[0m" 200 -
+[2020-04-23 09:43:55] [DEBUG] ø™ º¥Ú”°«Î«ÛÃÂ------/admin/regAdminUser
+[2020-04-23 09:43:55] [DEBUG] ¥Ú”°request÷–µƒtoken------eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4NzYwNTgwMSwiZXhwIjoxNTg3NjkyMjAxfQ.eyJpZCI6MSwidXNlck5hbWUiOiJzZW4iLCJuYW1lIjoi5p2O5qOu5qOuIiwic2V4IjowLCJlbWFpbCI6IjE5ODI5NjgxMTI2QDE2My5jb20iLCJwaG9uZSI6IjE5ODI5NjgxMTI2IiwiY3JlYXRlVGltZSI6IjIwMjAtMDQtMjEgMTQ6NDU6MTAifQ.O_7f8-4US7eF4wIy-chYWCsUYR7EJTqze0bDj3v3jGMJoIiuro3wlDp--f-3J45Dn7F9kM6U0I0w1VBrhyof4g
+[2020-04-23 09:43:55] [DEBUG] ¥Ú”°request÷–µƒtokenΩ‚ŒˆÕÍ±œ------{'id': 1, 'userName': 'sen', 'name': '¿Ó…≠…≠', 'sex': 0, 'email': '19829681126@163.com', 'phone': '19829681126', 'createTime': '2020-04-21 14:45:10'}
+[2020-04-23 09:43:55] [DEBUG] «Î«Û∑Ω Ω------POST
+[2020-04-23 09:43:55] [DEBUG] «Î«Û≤Œ ˝------{'userName': 'sen6', 'name': '¿ı…´Ω…≠', 'passWord': '49c20a990a1bbccdd3280d04a032e188', 'sex': '0', 'email': ' «', 'phone': '19856895689'}
+[2020-04-23 09:43:56] [DEBUG] «Î«Û∫ƒ ±------1.6306376457214355 √Î
+[2020-04-23 09:43:56] [DEBUG] ∑µªÿµƒΩ·ππ------{'status': '200', 'msg': '◊¢≤·”√ªß≥…π¶,”√ªß√˚:sen6', 'flag': True, 'data': {'id': 13, 'name': '¿ı…´Ω…≠', 'email': ' «', 'userName': 'sen6', 'sex': 0, 'phone': '19856895689', 'createTime': '2020-04-23 09:43:57'}}
+[2020-04-23 09:43:56] [INFO] 127.0.0.1 - - [23/Apr/2020 09:43:56] "[37mPOST /admin/regAdminUser HTTP/1.1[0m" 200 -
+[2020-04-23 09:47:22] [INFO]  * Detected change in 'E:\\pythonœÓƒø\\cyPython\\app\\admin\\logic.py', reloading
+[2020-04-23 09:47:22] [INFO]  * Restarting with stat
+[2020-04-23 09:53:32] [INFO]  * Restarting with stat
+[2020-04-23 09:56:35] [INFO]  * Restarting with stat
+[2020-04-23 10:01:07] [INFO]  * Restarting with stat
+[2020-04-23 10:02:26] [INFO]  * Restarting with stat
+[2020-04-23 10:03:44] [INFO]  * Restarting with stat
+[2020-04-23 10:05:24] [INFO]  * Restarting with stat
+[2020-04-23 10:05:57] [INFO]  * Restarting with stat
+[2020-04-23 10:06:12] [INFO]  * Restarting with stat
+[2020-04-23 10:11:04] [INFO]  * Restarting with stat
+[2020-04-23 10:41:05] [INFO]  * Restarting with stat
+[2020-04-23 10:41:40] [INFO]  * Restarting with stat
+[2020-04-23 10:43:05] [INFO]  * Restarting with stat
+[2020-04-23 10:49:53] [INFO]  * Restarting with stat
+[2020-04-23 10:51:59] [INFO]  * Restarting with stat
+[2020-04-23 10:53:00] [INFO]  * Restarting with stat
+[2020-04-23 10:53:36] [INFO]  * Restarting with stat
+[2020-04-23 10:53:47] [INFO]  * Restarting with stat
+[2020-04-23 10:55:33] [INFO]  * Restarting with stat
+[2020-04-23 10:56:20] [INFO]  * Restarting with stat
+[2020-04-23 10:57:12] [INFO]  * Restarting with stat
+[2020-04-23 10:58:55] [INFO]  * Restarting with stat
+[2020-04-23 11:04:21] [INFO]  * Restarting with stat
+[2020-04-23 11:05:32] [INFO]  * Restarting with stat
+[2020-04-23 11:06:45] [INFO]  * Restarting with stat
+[2020-04-23 11:06:54] [INFO]  * Restarting with stat
+[2020-04-23 11:08:00] [INFO]  * Restarting with stat
+[2020-04-23 11:09:15] [INFO]  * Restarting with stat
+[2020-04-23 11:11:08] [INFO]  * Restarting with stat
+[2020-04-23 11:11:41] [INFO]  * Restarting with stat
+[2020-04-23 11:16:02] [INFO]  * Restarting with stat
+[2020-04-23 11:18:51] [INFO]  * Restarting with stat
+[2020-04-23 11:22:12] [INFO]  * Restarting with stat
+[2020-04-23 11:22:57] [INFO]  * Restarting with stat
+[2020-04-23 11:24:18] [INFO]  * Restarting with stat
